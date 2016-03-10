@@ -1,6 +1,8 @@
 # hackerrank
 My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 
+### [Functional Programming](https://www.hackerrank.com/domains/fp):
+
 1. [Introduction](https://www.hackerrank.com/domains/fp/intro):
   * [List Replication](https://www.hackerrank.com/challenges/fp-list-replication)
   * [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array)
