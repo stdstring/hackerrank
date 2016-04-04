@@ -48,8 +48,7 @@ let process_command (program : string) (memory : byte[]) context =
             context.Ip <- context.Ip + 1
             context.OpCount <- context.OpCount + 1
         | '.' ->
-            // TODO (std_string) : think about encoding
-            memory.[context.CurrentCell] |> char |> printf "%c"
+            [| memory.[context.CurrentCell] |] |> Encoding.ASCII.GetString |> printf "%s"
             context.Ip <- context.Ip + 1
             context.OpCount <- context.OpCount + 1
         | ',' ->
@@ -95,7 +94,7 @@ let main argv =
     let nmPair = Console.ReadLine().Split(' ') |> Array.map (fun value -> int value)
     let n = nmPair.[0]
     let m = nmPair.[1]
-    // TODO (std_string) : think about encoding
+    // expect ASCII data
     let input = Console.ReadLine().Substring(0, n) |> Encoding.ASCII.GetBytes
     let source = [for _ in 1 .. m -> Console.ReadLine()]
     let knownChars = "><+-.,[]"
