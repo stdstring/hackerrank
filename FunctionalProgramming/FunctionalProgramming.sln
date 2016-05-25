@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AreaVolumeCalculation", "AreaVolumeCalculation\AreaVolumeCalculation.fsproj", "{22CE34FF-519D-4B6C-9D1A-8BEE9F58274D}"
 EndProject
@@ -50,6 +50,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveTreesCS", "RecursiveTreesCS\RecursiveTreesCS.csproj", "{6304BB59-7CCE-4D2F-9133-B212B4C407D6}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MatrixRotation", "MatrixRotation\MatrixRotation.fsproj", "{E3E4FF8C-90A6-4B4D-96D5-6A456059F3E4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunctionsOrNot", "FunctionsOrNot\FunctionsOrNot.fsproj", "{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{E3E4FF8C-90A6-4B4D-96D5-6A456059F3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3E4FF8C-90A6-4B4D-96D5-6A456059F3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3E4FF8C-90A6-4B4D-96D5-6A456059F3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
