@@ -53,6 +53,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MatrixRotation", "MatrixRot
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunctionsOrNot", "FunctionsOrNot\FunctionsOrNot.fsproj", "{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PolygonPerimeterCalculation", "PolygonPerimeterCalculation\PolygonPerimeterCalculation.fsproj", "{EAF53B16-FCC7-458C-9244-75FAD9823937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EB586E0-D7C8-4FAE-A24B-BED517C6A551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF53B16-FCC7-458C-9244-75FAD9823937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF53B16-FCC7-458C-9244-75FAD9823937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF53B16-FCC7-458C-9244-75FAD9823937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF53B16-FCC7-458C-9244-75FAD9823937}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
