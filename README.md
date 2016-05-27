@@ -10,6 +10,8 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
   * [Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex)
   * [Area Under Curves and Volume of Revolving a Curve](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv)
   * [Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not)
+  * [Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon)
+  * [Compute the Area of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon)
 2. [Recursion](https://www.hackerrank.com/domains/fp/recursion):
   * [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd)
   * [Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle)
