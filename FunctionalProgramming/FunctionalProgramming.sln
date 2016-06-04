@@ -57,6 +57,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PolygonPerimeterCalculation
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PolygonAreaCalculation", "PolygonAreaCalculation\PolygonAreaCalculation.fsproj", "{FCE291CD-68AB-49CD-9E10-D1C71633BAF4}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MissingNumbers", "MissingNumbers\MissingNumbers.fsproj", "{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{FCE291CD-68AB-49CD-9E10-D1C71633BAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCE291CD-68AB-49CD-9E10-D1C71633BAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCE291CD-68AB-49CD-9E10-D1C71633BAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
