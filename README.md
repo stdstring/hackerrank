@@ -32,6 +32,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 6. [Ad Hoc](https://www.hackerrank.com/domains/fp/misc):
   * [Rotate String](https://www.hackerrank.com/challenges/rotate-string)
   * [Remove Duplicates](https://www.hackerrank.com/challenges/remove-duplicates)
+  * [Missing Numbers (FP)](https://www.hackerrank.com/challenges/missing-numbers-fp)
   * [Captain Prime](https://www.hackerrank.com/challenges/captain-prime)
 7. [Parsers](https://www.hackerrank.com/domains/fp/parsers)
 8. [Interpreter and Compilers](https://www.hackerrank.com/domains/fp/compilers):
