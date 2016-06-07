@@ -59,6 +59,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PolygonAreaCalculation", "P
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MissingNumbers", "MissingNumbers\MissingNumbers.fsproj", "{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TreeManager", "TreeManager\TreeManager.fsproj", "{FC258BBB-BF3F-40D4-9F8D-CD37EBCB89FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD6B68BF-17AD-4AE9-87F6-AAC71A4BE66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC258BBB-BF3F-40D4-9F8D-CD37EBCB89FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC258BBB-BF3F-40D4-9F8D-CD37EBCB89FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC258BBB-BF3F-40D4-9F8D-CD37EBCB89FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC258BBB-BF3F-40D4-9F8D-CD37EBCB89FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
