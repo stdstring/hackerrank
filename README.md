@@ -27,6 +27,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
   * [Super Digit](https://www.hackerrank.com/challenges/super-digit)
 3. [Functional Structures](https://www.hackerrank.com/domains/fp/ds):
   * [Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation)
+  * [Tree manager](https://www.hackerrank.com/challenges/tree-manager)
 4. [Memoization and DP](https://www.hackerrank.com/domains/fp/dp)
 5. [Persistent Structures](https://www.hackerrank.com/domains/fp/persistent-ds)
 6. [Ad Hoc](https://www.hackerrank.com/domains/fp/misc):
