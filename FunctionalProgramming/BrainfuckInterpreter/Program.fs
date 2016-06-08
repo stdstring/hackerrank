@@ -31,50 +31,50 @@ let find_block_end (program : string) startIndex =
 let process_command (program : string) (memory : byte[]) context =
     let command = program.[context.Ip]
     match command with
-        | '>' ->
-            context.CurrentCell <- context.CurrentCell + 1
+    | '>' ->
+        context.CurrentCell <- context.CurrentCell + 1
+        context.Ip <- context.Ip + 1
+        context.OpCount <- context.OpCount + 1
+    | '<' ->
+        context.CurrentCell <- context.CurrentCell - 1
+        context.Ip <- context.Ip + 1
+        context.OpCount <- context.OpCount + 1
+    | '+' ->
+        memory.[context.CurrentCell] <- memory.[context.CurrentCell] + 1uy
+        context.Ip <- context.Ip + 1
+        context.OpCount <- context.OpCount + 1
+    | '-' ->
+        memory.[context.CurrentCell] <- memory.[context.CurrentCell] - 1uy
+        context.Ip <- context.Ip + 1
+        context.OpCount <- context.OpCount + 1
+    | '.' ->
+        [| memory.[context.CurrentCell] |] |> Encoding.ASCII.GetString |> printf "%s"
+        context.Ip <- context.Ip + 1
+        context.OpCount <- context.OpCount + 1
+    | ',' ->
+        memory.[context.CurrentCell] <- context.Input.Dequeue()
+        context.Ip <- context.Ip + 1
+        context.OpCount <- context.OpCount + 1
+    | '[' ->
+        match memory.[context.CurrentCell] with
+        | 0uy ->
+            let blockEndIp = find_block_end program context.Ip
+            context.Ip <- blockEndIp + 1
+            context.OpCount <- context.OpCount + 2
+        | _ ->
+            context.Ip <- context.Ip + 1
+            context.Stack.Push(context.Ip)
+            context.OpCount <- context.OpCount + 1
+    | ']' ->
+        match memory.[context.CurrentCell] with
+        | 0uy ->
+            context.Stack.Pop() |> ignore
             context.Ip <- context.Ip + 1
             context.OpCount <- context.OpCount + 1
-        | '<' ->
-            context.CurrentCell <- context.CurrentCell - 1
-            context.Ip <- context.Ip + 1
-            context.OpCount <- context.OpCount + 1
-        | '+' ->
-            memory.[context.CurrentCell] <- memory.[context.CurrentCell] + 1uy
-            context.Ip <- context.Ip + 1
-            context.OpCount <- context.OpCount + 1
-        | '-' ->
-            memory.[context.CurrentCell] <- memory.[context.CurrentCell] - 1uy
-            context.Ip <- context.Ip + 1
-            context.OpCount <- context.OpCount + 1
-        | '.' ->
-            [| memory.[context.CurrentCell] |] |> Encoding.ASCII.GetString |> printf "%s"
-            context.Ip <- context.Ip + 1
-            context.OpCount <- context.OpCount + 1
-        | ',' ->
-            memory.[context.CurrentCell] <- context.Input.Dequeue()
-            context.Ip <- context.Ip + 1
-            context.OpCount <- context.OpCount + 1
-        | '[' ->
-            match memory.[context.CurrentCell] with
-            | 0uy ->
-                let blockEndIp = find_block_end program context.Ip
-                context.Ip <- blockEndIp + 1
-                context.OpCount <- context.OpCount + 2
-            | _ ->
-                context.Ip <- context.Ip + 1
-                context.Stack.Push(context.Ip)
-                context.OpCount <- context.OpCount + 1
-        | ']' ->
-            match memory.[context.CurrentCell] with
-            | 0uy ->
-                context.Stack.Pop() |> ignore
-                context.Ip <- context.Ip + 1
-                context.OpCount <- context.OpCount + 1
-            | _ ->
-                context.Ip <- context.Stack.Peek()
-                context.OpCount <- context.OpCount + 2
-        | _ -> failwith "bad command"
+        | _ ->
+            context.Ip <- context.Stack.Peek()
+            context.OpCount <- context.OpCount + 2
+    | _ -> failwith "bad command"
 
 let process_program (program : string) (input : byte[]) =
     let programSize = program.Length
