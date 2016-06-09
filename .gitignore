@@ -1,3 +1,8 @@
+# ArtificialIntelligence tasks
+ArtificialIntelligence/.vs/*
+ArtificialIntelligence/BotSavesPrincess/bin/*
+ArtificialIntelligence/BotSavesPrincess/obj/*
+# FunctionalProgramming tasks
 FunctionalProgramming/.vs/*
 FunctionalProgramming/AreaVolumeCalculation/bin/*
 FunctionalProgramming/AreaVolumeCalculation/obj/*
