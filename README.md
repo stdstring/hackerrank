@@ -1,6 +1,19 @@
 # hackerrank
 My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 
+### [Artificial Intelligence](https://www.hackerrank.com/domains/ai):
+
+1. [Bot Building](https://www.hackerrank.com/domains/ai/introduction):
+  * [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess)
+2. [A* Search](https://www.hackerrank.com/domains/ai/astar-search):
+3. [Alpha Beta Pruning](https://www.hackerrank.com/domains/ai/alpha-beta-pruning):
+4. [Combinatorial Search](https://www.hackerrank.com/domains/ai/combinatorial-search-theory):
+5. [Games](https://www.hackerrank.com/domains/ai/richman-games):
+6. [Statistics and Machine Learning](https://www.hackerrank.com/domains/ai/machine-learning):
+7. [Digital Image Analysis](https://www.hackerrank.com/domains/ai/image-analysis):
+8. [Natural Language Processing](https://www.hackerrank.com/domains/ai/nlp):
+9. [Probability & Statistics - Foundations](https://www.hackerrank.com/domains/ai/statistics-foundations):
+
 ### [Functional Programming](https://www.hackerrank.com/domains/fp):
 
 1. [Introduction](https://www.hackerrank.com/domains/fp/intro):
