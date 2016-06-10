@@ -42,14 +42,13 @@ let show_move = function
 [<EntryPoint>]
 let main argv =
     let n = Console.ReadLine() |> int
-    //let field = Array2D.create n n '-'
     let foldFun (princessPoint, botPoint) row =
         let line = Console.ReadLine()
         match line.IndexOf(PrincessChar), line.IndexOf(BotChar) with
         | -1, -1 -> princessPoint, botPoint
-        | princessIndex, -1 -> Some({Point.x = row; Point.y = princessIndex + 1}), botPoint
-        | -1, botIndex -> princessPoint, Some({Point.x = row; Point.y = botIndex + 1})
-        | princessIndex, botIndex -> Some({Point.x = row; Point.y = princessIndex + 1}), Some({Point.x = row; Point.y = botIndex + 1})
+        | princessIndex, -1 -> Some({Point.x = princessIndex + 1; Point.y = row}), botPoint
+        | -1, botIndex -> princessPoint, Some({Point.x = botIndex + 1; Point.y = row})
+        | princessIndex, botIndex -> Some({Point.x = princessIndex + 1; Point.y = row}), Some({Point.x = botIndex + 1; Point.y = row})
     let princessPoint, botPoint = match seq {1 .. n} |> Seq.fold foldFun (None, None) with
                                   | Some(princess), Some(bot) -> princess, bot
                                   | _, _ -> failwith "Bad input data"
