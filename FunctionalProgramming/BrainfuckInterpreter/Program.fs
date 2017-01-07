@@ -18,7 +18,7 @@ type ExecutionContext = {
     mutable CurrentCell : int32
     Stack : Stack<Int32>;
     Input : Queue<Byte>}
-    
+
 let find_block_end (program : string) startIndex =
     let rec find_block_end_impl index balance =
         match program.[index] with
