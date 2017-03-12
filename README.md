@@ -1,6 +1,19 @@
 # hackerrank
 My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
-
+### [Algorithms](https://www.hackerrank.com/domains/algorithms):
+1. [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
+2. [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
+3. [Strings](https://www.hackerrank.com/domains/algorithms/strings)
+4. [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting)
+5. [Search](https://www.hackerrank.com/domains/algorithms/search)
+6. [Graph Theory](https://www.hackerrank.com/domains/algorithms/graph-theory)
+7. [Greedy](https://www.hackerrank.com/domains/algorithms/greedy)
+8. [Dynamic Programming](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
+9. [Constructive Algorithms](https://www.hackerrank.com/domains/algorithms/constructive-algorithms)
+10. [Bit Manipulation](https://www.hackerrank.com/domains/algorithms/bit-manipulation)
+11. [Recursion](https://www.hackerrank.com/domains/algorithms/recursion)
+12. [Game Theory](https://www.hackerrank.com/domains/algorithms/game-theory)
+13. [NP Complete](https://www.hackerrank.com/domains/algorithms/np-complete-problems)
 ### [Artificial Intelligence](https://www.hackerrank.com/domains/ai):
 
 1. [Bot Building](https://www.hackerrank.com/domains/ai/introduction):
