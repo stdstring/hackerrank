@@ -14,6 +14,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 11. [Recursion](https://www.hackerrank.com/domains/algorithms/recursion)
 12. [Game Theory](https://www.hackerrank.com/domains/algorithms/game-theory)
 13. [NP Complete](https://www.hackerrank.com/domains/algorithms/np-complete-problems)
+
 ### [Artificial Intelligence](https://www.hackerrank.com/domains/ai):
 
 1. [Bot Building](https://www.hackerrank.com/domains/ai/introduction):
