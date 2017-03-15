@@ -1,5 +1,7 @@
 # Algorithms tasks
 Algorithms/.vs/*
+Algorithms/**/bin/*
+Algorithms/**/obj/*
 # ArtificialIntelligence tasks
 ArtificialIntelligence/.vs/*
 ArtificialIntelligence/BotSavesPrincess/bin/*
