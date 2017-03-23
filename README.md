@@ -2,9 +2,15 @@
 My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 ### [Algorithms](https://www.hackerrank.com/domains/algorithms):
 1. [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
+  * [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+  * [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
+  * [Staircase](https://www.hackerrank.com/challenges/staircase)
+  * [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+  * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
 2. [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
 3. [Strings](https://www.hackerrank.com/domains/algorithms/strings)
 4. [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting)
+  * [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)
 5. [Search](https://www.hackerrank.com/domains/algorithms/search)
 6. [Graph Theory](https://www.hackerrank.com/domains/algorithms/graph-theory)
 7. [Greedy](https://www.hackerrank.com/domains/algorithms/greedy)
