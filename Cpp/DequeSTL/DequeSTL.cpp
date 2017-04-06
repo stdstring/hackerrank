@@ -49,14 +49,13 @@ void printKMax(int arr[], int n, int k)
 }
 
 int main(){
-  
    int t;
    std::cin >> t;
    while(t>0) {
       int n,k;
        std::cin >> n >> k;
        int i;
-       int arr[n];
+       int *arr = new int[n];
        for(i=0;i<n;i++)
             std::cin >> arr[i];
        printKMax(arr, n, k);

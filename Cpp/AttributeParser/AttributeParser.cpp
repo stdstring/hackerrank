@@ -123,7 +123,7 @@ public:
     virtual std::shared_ptr<Token> Parse(std::stringstream &source) override
     {
         const char tagLastChar = '>';
-        std::string name = ExtractName(source, [](char ch){ return ch != tagLastChar && !isspace(ch); });
+        std::string name = ExtractName(source, [tagLastChar](char ch){ return ch != tagLastChar && !isspace(ch); });
         // extract attributes
         std::vector<Attribute> attributes;
         while (source.peek() != tagLastChar)
@@ -148,7 +148,7 @@ public:
     virtual std::shared_ptr<Token> Parse(std::stringstream &source) override
     {
         const char tagLastChar = '>';
-        std::string name = ExtractName(source, [](char ch){ return ch != tagLastChar; });
+        std::string name = ExtractName(source, [tagLastChar](char ch){ return ch != tagLastChar; });
         source.get();
         return std::shared_ptr<Token>(new ClosingTag(name));
     }
