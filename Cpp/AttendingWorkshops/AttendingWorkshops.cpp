@@ -1,41 +1,35 @@
 #include <algorithm>
 #include <iostream>
+#include <vector>
 
 // from https://en.wikipedia.org/wiki/Interval_scheduling : greedy solution
 struct Workshop
 {
 public:
+    Workshop(int startTime, int duration) : startTime(startTime), duration(duration), endTime(startTime + duration) {}
+
     int startTime, duration, endTime;
 };
 
 struct Available_Workshops
 {
 public:
-    ~Available_Workshops()
-    {
-        delete[] workshops;
-    }
-    
-    int n;
-    Workshop *workshops;
+    std::vector<Workshop> workshops;
 };
 
 Available_Workshops* initialize(int start_time[], int duration[], int n) 
 {
     Available_Workshops *dest = new Available_Workshops();
-    dest->n = n;
-    dest->workshops = new Workshop[n];
+    dest->workshops.reserve(n);
     for (int index = 0; index < n; ++index)
     {
-        dest->workshops[index].startTime = start_time[index];
-        dest->workshops[index].duration = duration[index];
-        dest->workshops[index].endTime = start_time[index] + duration[index];
+        dest->workshops.push_back(Workshop(start_time[index], duration[index]));
     }
     auto comp = [](Workshop const &left, Workshop const &right)
     {
         return (left.endTime < right.endTime) || ((left.endTime == right.endTime) && (left.startTime < right.startTime));
     };
-    std::sort(dest->workshops, dest->workshops + n, comp);
+    std::sort(dest->workshops.begin(), dest->workshops.end(), comp);
     return dest;
 }
 
@@ -43,17 +37,18 @@ int CalculateMaxWorkshops(Available_Workshops* ptr)
 {
     int count = 0;
     int currentEndTime = -1;
-    for (int index = 0; index < ptr->n; ++index)
+    for (std::vector<Workshop>::const_iterator iterator = ptr->workshops.cbegin(); iterator < ptr->workshops.cend(); ++iterator)
     {
-        if (currentEndTime <= ptr->workshops[index].startTime)
+        if (currentEndTime <= iterator->startTime)
         {
-            currentEndTime = ptr->workshops[index].endTime;
+            currentEndTime = iterator->endTime;
             ++count;
         }
     }
     return count;
 }
 
+// start of readonly code from hackerrank
 int main(int argc, char *argv[]) {
     int n; // number of workshops
     std::cin >> n;
@@ -73,3 +68,4 @@ int main(int argc, char *argv[]) {
     std::cout << CalculateMaxWorkshops(ptr) << std::endl;
     return 0;
 }
+// end of readonly code from hackerrank

@@ -80,7 +80,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 4. [STL](https://www.hackerrank.com/domains/cpp/stl):
    * [Deque-STL](https://www.hackerrank.com/challenges/deque-stl)
 5. [Inheritance](https://www.hackerrank.com/domains/cpp/inheritance):
-   * [Magic Spells](https://www.hackerrank.com/challenges/magic-spells)
 6. [Other Concepts](https://www.hackerrank.com/domains/cpp/other-concepts):
    * [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops)
+   * [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics)
    * [Bit Array](https://www.hackerrank.com/challenges/bitset-1)

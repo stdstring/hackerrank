@@ -33,7 +33,7 @@ public:
 class Whitespace : public Token
 {
 public:
-    virtual TokenType GetTokenType() const override { return TokenType::WHITESPACE; }
+    TokenType GetTokenType() const override { return TokenType::WHITESPACE; }
 };
 
 class OpeningTag : public Token
@@ -41,7 +41,7 @@ class OpeningTag : public Token
 public:
     OpeningTag(std::string const &name, std::vector<Attribute> const &attributes) : _name(name), _attributes(attributes) {}
 
-    virtual TokenType GetTokenType() const override { return TokenType::OPENING_TAG; }
+    TokenType GetTokenType() const override { return TokenType::OPENING_TAG; }
     std::string const& GetName() const { return _name; }
     std::vector<Attribute>& GetAttributes() { return _attributes; }
 
@@ -55,7 +55,7 @@ class ClosingTag : public Token
 public:
     ClosingTag(std::string const &name) : _name(name) {}
 
-    virtual TokenType GetTokenType() const override { return TokenType::CLOSING_TAG; }
+    TokenType GetTokenType() const override { return TokenType::CLOSING_TAG; }
     std::string const& GetName() const { return _name; }
 
 private:
@@ -73,8 +73,8 @@ class WhitespaceParser : public IParser
 public:
     virtual std::shared_ptr<Token> Parse(std::stringstream &source) override
     {
-        //while (!source.eof() && isspace(source.peek()))
-        while (source.eof() != -1 && isspace(source.peek()))
+        while (source.good() && isspace(source.peek()))
+        //while (source.eof() != -1 && isspace(source.peek()))
         {
             source.get();
         }
@@ -82,7 +82,6 @@ public:
     }
 };
 
-// TODO (std_string) : think about name of the predicate parameter
 std::string ExtractName(std::stringstream &source, std::function<bool(char)> predicate)
 {
     std::string name;
@@ -193,7 +192,7 @@ std::vector<std::shared_ptr<Node>> Parse(std::stringstream &source)
 {
     std::stack<std::shared_ptr<Node>> treeStack;
     std::vector<std::shared_ptr<Node>> rootNodes;
-    //while (!source.eof())
+    //while (source.good())
     while (source.peek() != -1)
     {
         std::shared_ptr<IParser> parser = ChooseParser(source);
@@ -285,7 +284,7 @@ int main()
     std::cin >> n >> q;
     std::string line;
     std::stringstream stream;
-    // remove "/r/n" after "std::cin >> n >> q". think how to fix this
+    // remove "/r/n" after "std::cin >> n >> q"
     std::getline(std::cin, line);
     for (int i = 0; i < n; ++i)
     {

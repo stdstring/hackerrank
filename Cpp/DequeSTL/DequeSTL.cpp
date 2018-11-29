@@ -1,5 +1,5 @@
 #include <iostream>
-#include <deque>
+#include <vector>
 
 struct MaxItem
 {
@@ -10,7 +10,7 @@ public:
     int index, value;
 };
 
-MaxItem findMax(int arr[], int start, int length)
+MaxItem findMax(std::vector<int> const &arr, int start, int length)
 {
     int maxIndex = start;
     int maxValue = arr[start];
@@ -25,9 +25,8 @@ MaxItem findMax(int arr[], int start, int length)
     return MaxItem(maxIndex, maxValue);
 }
 
-void printKMax(int arr[], int n, int k)
+void printKMax(std::vector<int> const &arr, int n, int k)
 {
-    //Write your code here.
     MaxItem current;
     for (int start = 0; start < n - k + 1; ++start)
     {
@@ -51,15 +50,15 @@ void printKMax(int arr[], int n, int k)
 int main(){
    int t;
    std::cin >> t;
-   while(t>0) {
-      int n,k;
+   for (int testCase = 0; testCase < t; ++testCase)
+   {
+       int n, k;
        std::cin >> n >> k;
-       int i;
-       int *arr = new int[n];
-       for(i=0;i<n;i++)
-            std::cin >> arr[i];
+       std::vector<int> arr;
+       arr.reserve(n);
+       for(int index = 0; index < n; ++index)
+            std::cin >> arr[index];
        printKMax(arr, n, k);
-       t--;
      }
      return 0;
 }
