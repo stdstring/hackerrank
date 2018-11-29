@@ -74,7 +74,6 @@ public:
     virtual std::shared_ptr<Token> Parse(std::stringstream &source) override
     {
         while (source.good() && isspace(source.peek()))
-        //while (source.eof() != -1 && isspace(source.peek()))
         {
             source.get();
         }
@@ -192,7 +191,6 @@ std::vector<std::shared_ptr<Node>> Parse(std::stringstream &source)
 {
     std::stack<std::shared_ptr<Node>> treeStack;
     std::vector<std::shared_ptr<Node>> rootNodes;
-    //while (source.good())
     while (source.peek() != -1)
     {
         std::shared_ptr<IParser> parser = ChooseParser(source);
@@ -262,7 +260,7 @@ std::string FindPath(std::string const &path, std::vector<std::shared_ptr<Node>>
     if (!current)
         return notFoundResult;
     // segments
-    for (int index = 1; index < parts.size(); ++index)
+    for (unsigned int index = 1; index < parts.size(); ++index)
     {
         current = FindNodeByName(current.get()->GetChildren(), parts.at(index));
         if (!current)
