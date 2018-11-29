@@ -66,3 +66,5 @@ FunctionalProgramming/SuperDigit/bin/*
 FunctionalProgramming/SuperDigit/obj/*
 FunctionalProgramming/TreeManager/bin/*
 FunctionalProgramming/TreeManager/obj/*
+# Cpp
+Cpp/build

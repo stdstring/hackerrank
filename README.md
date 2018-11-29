@@ -71,3 +71,16 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 7. [Parsers](https://www.hackerrank.com/domains/fp/parsers)
 8. [Interpreter and Compilers](https://www.hackerrank.com/domains/fp/compilers):
    * [BrainF__k interpreter](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
+
+### [C++](https://www.hackerrank.com/domains/cpp):
+1. [Introduction](https://www.hackerrank.com/domains/cpp/cpp-introduction):
+2. [Strings](https://www.hackerrank.com/domains/cpp/cpp-strings):
+   * [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser)
+3. [Classes](https://www.hackerrank.com/domains/cpp/classes):
+4. [STL](https://www.hackerrank.com/domains/cpp/stl):
+   * [Deque-STL](https://www.hackerrank.com/challenges/deque-stl)
+5. [Inheritance](https://www.hackerrank.com/domains/cpp/inheritance):
+6. [Other Concepts](https://www.hackerrank.com/domains/cpp/other-concepts):
+   * [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops)
+   * [C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics)
+   * [Bit Array](https://www.hackerrank.com/challenges/bitset-1)
