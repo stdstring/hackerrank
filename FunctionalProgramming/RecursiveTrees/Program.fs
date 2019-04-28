@@ -38,7 +38,7 @@ let rec build_tree level count size storage =
     | _ when level > count -> storage
     | _ ->
         storage |> build_vertical_segment size |> build_slanting_segments size |> build_tree (level + 1) count (size / 2)
-  
+
 let build_tree_start count =
     build_tree 1 count SegmentStartSize []
     

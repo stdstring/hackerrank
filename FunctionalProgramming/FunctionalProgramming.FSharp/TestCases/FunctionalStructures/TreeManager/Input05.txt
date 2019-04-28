@@ -1,0 +1,21 @@
+20
+print
+change 318376
+print
+change 508820
+print
+print
+print
+change 903359
+print
+insert child 983114
+visit child 1
+insert right 952351
+visit right
+delete
+print
+insert child 944965
+print
+print
+print
+visit child 1

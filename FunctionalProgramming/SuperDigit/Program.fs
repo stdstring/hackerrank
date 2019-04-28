@@ -28,7 +28,6 @@ let get_digits (number : uint64) =
             get_digits_impl rest (digit :: storage)
     get_digits_impl number []
 
-
 let rec superdigit (number : uint64) =
     match number with
     | _ when number < 10UL -> number

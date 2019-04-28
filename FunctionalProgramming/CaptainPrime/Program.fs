@@ -44,7 +44,7 @@ let check_left (sieve : BitArray) number =
             | _ -> check_left_impl (number % divider) (divider / 10)
         | _ -> false
     check_left_impl number divider
-    
+
 let rec check_right (sieve : BitArray) number =
     match number with
     | 0 -> true

@@ -3,7 +3,6 @@
 module ColorsSequenceModule
 
 open System
-open System.Text
 
 let check_prefix (red, green, yellow, blue) =
     match (red, green, yellow, blue) with

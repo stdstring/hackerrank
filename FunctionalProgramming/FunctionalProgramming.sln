@@ -3,63 +3,67 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AreaVolumeCalculation", "AreaVolumeCalculation\AreaVolumeCalculation.fsproj", "{E4F89CA5-0619-4BFE-8BD4-75739FEC4B07}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AreaVolumeCalculation", "AreaVolumeCalculation\AreaVolumeCalculation.fsproj", "{E4F89CA5-0619-4BFE-8BD4-75739FEC4B07}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BrainfuckInterpreter", "BrainfuckInterpreter\BrainfuckInterpreter.fsproj", "{69D9A648-23AB-45AC-BDBE-B720C23F69C6}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "BrainfuckInterpreter", "BrainfuckInterpreter\BrainfuckInterpreter.fsproj", "{69D9A648-23AB-45AC-BDBE-B720C23F69C6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CaptainPrime", "CaptainPrime\CaptainPrime.fsproj", "{7B449029-21C1-4DED-8C1A-CDD6D8CCB8FC}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CaptainPrime", "CaptainPrime\CaptainPrime.fsproj", "{7B449029-21C1-4DED-8C1A-CDD6D8CCB8FC}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ColorsSequence", "ColorsSequence\ColorsSequence.fsproj", "{5A969B8C-11B9-4547-B6DA-D870BF0CA11F}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ColorsSequence", "ColorsSequence\ColorsSequence.fsproj", "{5A969B8C-11B9-4547-B6DA-D870BF0CA11F}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ComputingFibonacci", "ComputingFibonacci\ComputingFibonacci.fsproj", "{F254929C-84DC-4FB9-ACD6-1735140A57FA}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ComputingFibonacci", "ComputingFibonacci\ComputingFibonacci.fsproj", "{F254929C-84DC-4FB9-ACD6-1735140A57FA}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ComputingGCD", "ComputingGCD\ComputingGCD.fsproj", "{029B9CD0-2EAF-4BD8-8C2F-87F3FBA1CE94}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ComputingGCD", "ComputingGCD\ComputingGCD.fsproj", "{029B9CD0-2EAF-4BD8-8C2F-87F3FBA1CE94}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "EvaluatingExp", "EvaluatingExp\EvaluatingExp.fsproj", "{1E3C60FB-5E30-4284-B466-640661513F23}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "EvaluatingExp", "EvaluatingExp\EvaluatingExp.fsproj", "{1E3C60FB-5E30-4284-B466-640661513F23}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FilterArray", "FilterArray\FilterArray.fsproj", "{EF8508F5-5321-4A28-9473-872F225CC3FA}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FilterArray", "FilterArray\FilterArray.fsproj", "{EF8508F5-5321-4A28-9473-872F225CC3FA}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FilterElements", "FilterElements\FilterElements.fsproj", "{3E439AB1-B8CD-4D57-9F93-F42929B62E69}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FilterElements", "FilterElements\FilterElements.fsproj", "{3E439AB1-B8CD-4D57-9F93-F42929B62E69}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FilterListByPosition", "FilterListByPosition\FilterListByPosition.fsproj", "{95E4ED3D-B802-42B5-BA64-C421D346A133}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FilterListByPosition", "FilterListByPosition\FilterListByPosition.fsproj", "{95E4ED3D-B802-42B5-BA64-C421D346A133}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunctionsOrNot", "FunctionsOrNot\FunctionsOrNot.fsproj", "{3CAF30CF-0990-4FA1-B7A8-E26EAC0009D5}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FunctionsOrNot", "FunctionsOrNot\FunctionsOrNot.fsproj", "{3CAF30CF-0990-4FA1-B7A8-E26EAC0009D5}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ListReplication", "ListReplication\ListReplication.fsproj", "{6E54DA5B-201D-4ACB-9F30-7D7CF8F9AEBF}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ListReplication", "ListReplication\ListReplication.fsproj", "{6E54DA5B-201D-4ACB-9F30-7D7CF8F9AEBF}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MatrixRotation", "MatrixRotation\MatrixRotation.fsproj", "{3812B13F-A374-414E-8B61-152422FC0DB6}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "MatrixRotation", "MatrixRotation\MatrixRotation.fsproj", "{3812B13F-A374-414E-8B61-152422FC0DB6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MissingNumbers", "MissingNumbers\MissingNumbers.fsproj", "{2DBFD4B2-E7A1-45AB-A530-B655BA1351B5}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "MissingNumbers", "MissingNumbers\MissingNumbers.fsproj", "{2DBFD4B2-E7A1-45AB-A530-B655BA1351B5}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PascalTriangle", "PascalTriangle\PascalTriangle.fsproj", "{C3485A8C-B771-4532-9EF4-65FCC60F6AAA}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PascalTriangle", "PascalTriangle\PascalTriangle.fsproj", "{C3485A8C-B771-4532-9EF4-65FCC60F6AAA}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PolygonAreaCalculation", "PolygonAreaCalculation\PolygonAreaCalculation.fsproj", "{0BA931AD-9CF6-4083-B6D2-1AC7B3E4B40D}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PolygonAreaCalculation", "PolygonAreaCalculation\PolygonAreaCalculation.fsproj", "{0BA931AD-9CF6-4083-B6D2-1AC7B3E4B40D}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PolygonPerimeterCalculation", "PolygonPerimeterCalculation\PolygonPerimeterCalculation.fsproj", "{4AE5C300-AA08-4275-B146-242FC3DBF25A}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PolygonPerimeterCalculation", "PolygonPerimeterCalculation\PolygonPerimeterCalculation.fsproj", "{4AE5C300-AA08-4275-B146-242FC3DBF25A}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PrefixCompression", "PrefixCompression\PrefixCompression.fsproj", "{D4C48138-A4B7-4F59-B269-9C18DC987BB2}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "PrefixCompression", "PrefixCompression\PrefixCompression.fsproj", "{D4C48138-A4B7-4F59-B269-9C18DC987BB2}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RecursiveTrees", "RecursiveTrees\RecursiveTrees.fsproj", "{E668E815-4BBC-491C-866A-D5B0FE1A2F29}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "RecursiveTrees", "RecursiveTrees\RecursiveTrees.fsproj", "{E668E815-4BBC-491C-866A-D5B0FE1A2F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveTreesCS", "RecursiveTreesCS\RecursiveTreesCS.csproj", "{E940B170-1B0A-4C79-96CE-7593BE6FE924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveTreesCS", "RecursiveTreesCS\RecursiveTreesCS.csproj", "{E940B170-1B0A-4C79-96CE-7593BE6FE924}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.fsproj", "{0DF4CB2B-1644-4830-ADBD-AEFE43324EF6}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.fsproj", "{0DF4CB2B-1644-4830-ADBD-AEFE43324EF6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RotateString", "RotateString\RotateString.fsproj", "{8ED5E59E-E82F-4134-AA3B-04A4FF01796C}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "RotateString", "RotateString\RotateString.fsproj", "{8ED5E59E-E82F-4134-AA3B-04A4FF01796C}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SierpinskiTriangles", "SierpinskiTriangles\SierpinskiTriangles.fsproj", "{5498D496-6551-45DC-8B66-F2676849D1F8}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SierpinskiTriangles", "SierpinskiTriangles\SierpinskiTriangles.fsproj", "{5498D496-6551-45DC-8B66-F2676849D1F8}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StringCompression", "StringCompression\StringCompression.fsproj", "{83CC044E-E2EB-4C5B-85E2-2826C56C85D1}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "StringCompression", "StringCompression\StringCompression.fsproj", "{83CC044E-E2EB-4C5B-85E2-2826C56C85D1}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StringMingling", "StringMingling\StringMingling.fsproj", "{FBCC323A-2C7B-41E5-913C-AE508D34B809}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "StringMingling", "StringMingling\StringMingling.fsproj", "{FBCC323A-2C7B-41E5-913C-AE508D34B809}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StringPermute", "StringPermute\StringPermute.fsproj", "{18C2D018-0AC4-48A0-9D34-215C9C3E9C9E}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "StringPermute", "StringPermute\StringPermute.fsproj", "{18C2D018-0AC4-48A0-9D34-215C9C3E9C9E}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StringReductions", "StringReductions\StringReductions.fsproj", "{DA6B8B8D-53B8-4BF1-BAF4-D5C5370FAAAB}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "StringReductions", "StringReductions\StringReductions.fsproj", "{DA6B8B8D-53B8-4BF1-BAF4-D5C5370FAAAB}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SuperDigit", "SuperDigit\SuperDigit.fsproj", "{7AD7C29A-474F-4327-BE84-A511877521CE}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "SuperDigit", "SuperDigit\SuperDigit.fsproj", "{7AD7C29A-474F-4327-BE84-A511877521CE}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TreeManager", "TreeManager\TreeManager.fsproj", "{C70725D5-434E-408C-98F6-8B5063A78763}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "TreeManager", "TreeManager\TreeManager.fsproj", "{C70725D5-434E-408C-98F6-8B5063A78763}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FunctionalProgramming.FSharp", "FunctionalProgramming.FSharp\FunctionalProgramming.FSharp.fsproj", "{3330042D-CE7E-4E05-93A5-D4B9E0C902FD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunctionalProgramming.Common", "FunctionalProgramming.Common\FunctionalProgramming.Common.fsproj", "{D035BC30-AFD8-4F96-8EA6-A6B9E09121C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,14 @@ Global
 		{C70725D5-434E-408C-98F6-8B5063A78763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C70725D5-434E-408C-98F6-8B5063A78763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C70725D5-434E-408C-98F6-8B5063A78763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3330042D-CE7E-4E05-93A5-D4B9E0C902FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3330042D-CE7E-4E05-93A5-D4B9E0C902FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3330042D-CE7E-4E05-93A5-D4B9E0C902FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3330042D-CE7E-4E05-93A5-D4B9E0C902FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D035BC30-AFD8-4F96-8EA6-A6B9E09121C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D035BC30-AFD8-4F96-8EA6-A6B9E09121C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D035BC30-AFD8-4F96-8EA6-A6B9E09121C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D035BC30-AFD8-4F96-8EA6-A6B9E09121C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

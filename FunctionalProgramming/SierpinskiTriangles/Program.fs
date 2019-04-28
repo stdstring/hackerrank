@@ -35,7 +35,7 @@ let split {a = vertexA; b = vertexB; c = vertexC} =
     [{a = vertexA; b = middleAB; c = middleCA;};
      {a = middleAB; b = vertexB; c = middleBC;};
      {a = middleCA; b = middleBC; c = vertexC;}]
-     
+
 let build_fractal initTriangle iterationCount =
     let rec build_fractal_impl triangles iteration =
         match iteration with
@@ -44,13 +44,13 @@ let build_fractal initTriangle iterationCount =
             let newTriangles = triangles |> List.collect split
             build_fractal_impl newTriangles (iteration + 1)
     build_fractal_impl [initTriangle] 0
-    
+
 let is_point_inside_triangle {x = pointX; y = pointY;} {a = vertexA; b = vertexB; c = vertexC;} =
     let value1 = (pointX - vertexA.x) * (vertexB.y - vertexA.y) - (pointY - vertexA.y) * (vertexB.x - vertexA.x)
     let value2 = (pointX - vertexB.x) * (vertexC.y - vertexB.y) - (pointY - vertexB.y) * (vertexC.x - vertexB.x)
     let value3 = (pointX - vertexC.x) * (vertexA.y - vertexC.y) - (pointY - vertexC.y) * (vertexA.x - vertexC.x)
     (value1 < 0.0) && (value2 < 0.0) && (value3 < 0.0)
-    
+
 let prepare_triangle (field: char[,]) {a = vertexA; b = vertexB; c = vertexC;} =
     let xMin = vertexA.x
     let xMax = vertexC.x

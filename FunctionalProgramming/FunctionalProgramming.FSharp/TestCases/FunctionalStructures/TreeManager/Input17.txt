@@ -1,0 +1,2017 @@
+2016
+insert child 506112
+visit child 1
+insert right 571743
+visit right
+insert right 689297
+visit right
+insert right 779584
+visit right
+insert right 612864
+visit right
+insert right 279507
+visit right
+insert child 206381
+visit child 1
+insert right 972485
+visit right
+insert right 250282
+visit right
+insert right 938567
+visit right
+insert right 86863
+visit right
+insert right 467777
+visit right
+insert child 17544
+visit child 1
+insert right 687346
+visit right
+insert right 635210
+visit right
+insert right 380025
+visit right
+insert right 510960
+visit right
+insert right 995462
+visit right
+insert child 152212
+visit child 1
+insert right 819398
+visit right
+insert right 140972
+visit right
+insert right 16522
+visit right
+insert right 745797
+visit right
+insert right 176500
+visit right
+insert child 834631
+visit child 1
+insert right 245976
+visit right
+insert right 672911
+visit right
+insert right 32218
+visit right
+insert right 682064
+visit right
+insert right 737060
+visit right
+insert child 573360
+visit child 1
+insert right 349614
+visit right
+insert right 829970
+visit right
+insert right 739716
+visit right
+insert right 520458
+visit right
+insert right 152598
+visit right
+insert child 998290
+visit child 1
+insert right 832269
+visit right
+insert right 311266
+visit right
+insert right 585045
+visit right
+insert right 649173
+visit right
+insert right 737965
+visit right
+insert child 329474
+visit child 1
+insert right 240027
+visit right
+insert right 572262
+visit right
+insert right 679385
+visit right
+insert right 5731
+visit right
+insert right 612900
+visit right
+insert child 607577
+visit child 1
+insert right 172727
+visit right
+insert right 365369
+visit right
+insert right 743825
+visit right
+insert right 369027
+visit right
+insert right 823976
+visit right
+insert child 67292
+visit child 1
+insert right 447196
+visit right
+insert right 500023
+visit right
+insert right 549012
+visit right
+insert right 237848
+visit right
+insert right 656793
+visit right
+insert child 388478
+visit child 1
+insert right 789213
+visit right
+insert right 54395
+visit right
+insert right 936845
+visit right
+insert right 430532
+visit right
+insert right 38976
+visit right
+insert child 764182
+visit child 1
+insert right 815484
+visit right
+insert right 944601
+visit right
+insert right 38612
+visit right
+insert right 476477
+visit right
+insert right 931522
+visit right
+insert child 148091
+visit child 1
+insert right 960946
+visit right
+insert right 838339
+visit right
+insert right 449965
+visit right
+insert right 954829
+visit right
+insert right 592419
+visit right
+insert child 206530
+visit child 1
+insert right 612133
+visit right
+insert right 850004
+visit right
+insert right 963463
+visit right
+insert right 770565
+visit right
+insert right 939215
+visit right
+insert child 558116
+visit child 1
+insert right 610310
+visit right
+insert right 417793
+visit right
+insert right 884214
+visit right
+insert right 407020
+visit right
+insert right 936963
+visit right
+insert child 729244
+visit child 1
+insert right 344413
+visit right
+insert right 66807
+visit right
+insert right 135685
+visit right
+insert right 745137
+visit right
+insert right 694413
+visit right
+insert child 376081
+visit child 1
+insert right 849361
+visit right
+insert right 812363
+visit right
+insert right 941378
+visit right
+insert right 866850
+visit right
+insert right 242381
+visit right
+insert child 412428
+visit child 1
+insert right 550696
+visit right
+insert right 530570
+visit right
+insert right 580402
+visit right
+insert right 977011
+visit right
+insert right 70926
+visit right
+insert child 352957
+visit child 1
+insert right 472399
+visit right
+insert right 491450
+visit right
+insert right 909137
+visit right
+insert right 760694
+visit right
+insert right 654314
+visit right
+insert child 898335
+visit child 1
+insert right 192657
+visit right
+insert right 669898
+visit right
+insert right 115320
+visit right
+insert right 714402
+visit right
+insert right 630307
+visit right
+insert child 471507
+visit child 1
+insert right 893505
+visit right
+insert right 695534
+visit right
+insert right 145175
+visit right
+insert right 558873
+visit right
+insert right 996325
+visit right
+insert child 479891
+visit child 1
+insert right 217545
+visit right
+insert right 275082
+visit right
+insert right 254179
+visit right
+insert right 800996
+visit right
+insert right 894950
+visit right
+insert child 17607
+visit child 1
+insert right 680961
+visit right
+insert right 378085
+visit right
+insert right 321632
+visit right
+insert right 485864
+visit right
+insert right 812576
+visit right
+insert child 497856
+visit child 1
+insert right 214412
+visit right
+insert right 517120
+visit right
+insert right 697393
+visit right
+insert right 761282
+visit right
+insert right 565066
+visit right
+insert child 132099
+visit child 1
+insert right 434885
+visit right
+insert right 87277
+visit right
+insert right 729591
+visit right
+insert right 649646
+visit right
+insert right 993892
+visit right
+insert child 976076
+visit child 1
+insert right 205416
+visit right
+insert right 763010
+visit right
+insert right 699499
+visit right
+insert right 173866
+visit right
+insert right 487117
+visit right
+insert child 467648
+visit child 1
+insert right 437054
+visit right
+insert right 417505
+visit right
+insert right 887487
+visit right
+insert right 959094
+visit right
+insert right 597405
+visit right
+insert child 263672
+visit child 1
+insert right 908177
+visit right
+insert right 172238
+visit right
+insert right 322528
+visit right
+insert right 485529
+visit right
+insert right 14752
+visit right
+insert child 604505
+visit child 1
+insert right 238805
+visit right
+insert right 551157
+visit right
+insert right 344290
+visit right
+insert right 338899
+visit right
+insert right 380484
+visit right
+insert child 499890
+visit child 1
+insert right 398388
+visit right
+insert right 511520
+visit right
+insert right 813929
+visit right
+insert right 910020
+visit right
+insert right 729784
+visit right
+insert child 262938
+visit child 1
+insert right 423847
+visit right
+insert right 254427
+visit right
+insert right 517379
+visit right
+insert right 583003
+visit right
+insert right 220192
+visit right
+insert child 50485
+visit child 1
+insert right 611495
+visit right
+insert right 34153
+visit right
+insert right 866229
+visit right
+insert right 353419
+visit right
+insert right 497228
+visit right
+insert child 192228
+visit child 1
+insert right 16166
+visit right
+insert right 612028
+visit right
+insert right 59979
+visit right
+insert right 307520
+visit right
+insert right 340770
+visit right
+insert child 458277
+visit child 1
+insert right 361896
+visit right
+insert right 548371
+visit right
+insert right 303873
+visit right
+insert right 664060
+visit right
+insert right 581361
+visit right
+insert child 35515
+visit child 1
+insert right 343998
+visit right
+insert right 200001
+visit right
+insert right 440209
+visit right
+insert right 945015
+visit right
+insert right 577053
+visit right
+insert child 622720
+visit child 1
+insert right 760222
+visit right
+insert right 960392
+visit right
+insert right 78399
+visit right
+insert right 45987
+visit right
+insert right 844297
+visit right
+insert child 828874
+visit child 1
+insert right 710169
+visit right
+insert right 209819
+visit right
+insert right 68476
+visit right
+insert right 659772
+visit right
+insert right 497942
+visit right
+insert child 227068
+visit child 1
+insert right 978915
+visit right
+insert right 296848
+visit right
+insert right 84239
+visit right
+insert right 512232
+visit right
+insert right 819461
+visit right
+insert child 205147
+visit child 1
+insert right 321279
+visit right
+insert right 109961
+visit right
+insert right 653516
+visit right
+insert right 407014
+visit right
+insert right 884345
+visit right
+insert child 382335
+visit child 1
+insert right 816536
+visit right
+insert right 263384
+visit right
+insert right 430404
+visit right
+insert right 384301
+visit right
+insert right 273457
+visit right
+insert child 824048
+visit child 1
+insert right 438017
+visit right
+insert right 585153
+visit right
+insert right 980803
+visit right
+insert right 292265
+visit right
+insert right 523806
+visit right
+insert child 744153
+visit child 1
+insert right 245429
+visit right
+insert right 930288
+visit right
+insert right 422895
+visit right
+insert right 431403
+visit right
+insert right 986086
+visit right
+insert child 746686
+visit child 1
+insert right 310683
+visit right
+insert right 235422
+visit right
+insert right 58748
+visit right
+insert right 191113
+visit right
+insert right 417522
+visit right
+insert child 629436
+visit child 1
+insert right 764467
+visit right
+insert right 958018
+visit right
+insert right 505354
+visit right
+insert right 907469
+visit right
+insert right 767986
+visit right
+insert child 968863
+visit child 1
+insert right 179659
+visit right
+insert right 290628
+visit right
+insert right 960548
+visit right
+insert right 387756
+visit right
+insert right 532356
+visit right
+insert child 941906
+visit child 1
+insert right 168899
+visit right
+insert right 246878
+visit right
+insert right 555729
+visit right
+insert right 497951
+visit right
+insert right 870468
+visit right
+insert child 411832
+visit child 1
+insert right 561903
+visit right
+insert right 325107
+visit right
+insert right 115102
+visit right
+insert right 904380
+visit right
+insert right 422776
+visit right
+insert child 998053
+visit child 1
+insert right 788670
+visit right
+insert right 435038
+visit right
+insert right 143720
+visit right
+insert right 517102
+visit right
+insert right 71089
+visit right
+insert child 955682
+visit child 1
+insert right 494504
+visit right
+insert right 359878
+visit right
+insert right 674768
+visit right
+insert right 206327
+visit right
+insert right 672573
+visit right
+insert child 10203
+visit child 1
+insert right 961147
+visit right
+insert right 92401
+visit right
+insert right 881224
+visit right
+insert right 126348
+visit right
+insert right 128941
+visit right
+insert child 602884
+visit child 1
+insert right 42909
+visit right
+insert right 729709
+visit right
+insert right 480007
+visit right
+insert right 428132
+visit right
+insert right 690573
+visit right
+insert child 144994
+visit child 1
+insert right 250995
+visit right
+insert right 387916
+visit right
+insert right 617836
+visit right
+insert right 607234
+visit right
+insert right 58365
+visit right
+insert child 312905
+visit child 1
+insert right 304985
+visit right
+insert right 157197
+visit right
+insert right 907481
+visit right
+insert right 141060
+visit right
+insert right 859227
+visit right
+insert child 567236
+visit child 1
+insert right 78011
+visit right
+insert right 343271
+visit right
+insert right 633761
+visit right
+insert right 894276
+visit right
+insert right 514026
+visit right
+insert child 153293
+visit child 1
+insert right 202978
+visit right
+insert right 869910
+visit right
+insert right 339283
+visit right
+insert right 678072
+visit right
+insert right 76902
+visit right
+insert child 674631
+visit child 1
+insert right 419371
+visit right
+insert right 294586
+visit right
+insert right 315678
+visit right
+insert right 251528
+visit right
+insert right 499377
+visit right
+insert child 820225
+visit child 1
+insert right 885559
+visit right
+insert right 833662
+visit right
+insert right 634306
+visit right
+insert right 772673
+visit right
+insert right 26981
+visit right
+insert child 150295
+visit child 1
+insert right 402301
+visit right
+insert right 243166
+visit right
+insert right 579645
+visit right
+insert right 893866
+visit right
+insert right 214680
+visit right
+insert child 421562
+visit child 1
+insert right 694155
+visit right
+insert right 714176
+visit right
+insert right 870867
+visit right
+insert right 290084
+visit right
+insert right 681310
+visit right
+insert child 161042
+visit child 1
+insert right 678335
+visit right
+insert right 264928
+visit right
+insert right 988052
+visit right
+insert right 25830
+visit right
+insert right 868281
+visit right
+insert child 800485
+visit child 1
+insert right 337229
+visit right
+insert right 30384
+visit right
+insert right 163804
+visit right
+insert right 687862
+visit right
+insert right 68042
+visit right
+insert child 735540
+visit child 1
+insert right 229835
+visit right
+insert right 448308
+visit right
+insert right 710822
+visit right
+insert right 215427
+visit right
+insert right 272862
+visit right
+insert child 182247
+visit child 1
+insert right 958415
+visit right
+insert right 906556
+visit right
+insert right 300995
+visit right
+insert right 175254
+visit right
+insert right 375127
+visit right
+insert child 946879
+visit child 1
+insert right 3145
+visit right
+insert right 599864
+visit right
+insert right 160727
+visit right
+insert right 764826
+visit right
+insert right 982461
+visit right
+insert child 264885
+visit child 1
+insert right 238035
+visit right
+insert right 446225
+visit right
+insert right 175085
+visit right
+insert right 53701
+visit right
+insert right 412014
+visit right
+insert child 855962
+visit child 1
+insert right 649170
+visit right
+insert right 139369
+visit right
+insert right 311522
+visit right
+insert right 751749
+visit right
+insert right 567540
+visit right
+insert child 247202
+visit child 1
+insert right 347880
+visit right
+insert right 696877
+visit right
+insert right 737386
+visit right
+insert right 347470
+visit right
+insert right 612741
+visit right
+insert child 967819
+visit child 1
+insert right 631265
+visit right
+insert right 502989
+visit right
+insert right 883876
+visit right
+insert right 381574
+visit right
+insert right 870205
+visit right
+insert child 939941
+visit child 1
+insert right 130958
+visit right
+insert right 538098
+visit right
+insert right 5594
+visit right
+insert right 164243
+visit right
+insert right 575840
+visit right
+insert child 852281
+visit child 1
+insert right 801570
+visit right
+insert right 509507
+visit right
+insert right 775526
+visit right
+insert right 79087
+visit right
+insert right 462616
+visit right
+insert child 815615
+visit child 1
+insert right 274861
+visit right
+insert right 360254
+visit right
+insert right 317971
+visit right
+insert right 419466
+visit right
+insert right 401991
+visit right
+insert child 811959
+visit child 1
+insert right 860706
+visit right
+insert right 401930
+visit right
+insert right 577334
+visit right
+insert right 372322
+visit right
+insert right 612995
+visit right
+insert child 565451
+visit child 1
+insert right 694853
+visit right
+insert right 271203
+visit right
+insert right 372999
+visit right
+insert right 203577
+visit right
+insert right 204534
+visit right
+insert child 46866
+visit child 1
+insert right 205245
+visit right
+insert right 285854
+visit right
+insert right 179266
+visit right
+insert right 69052
+visit right
+insert right 719359
+visit right
+insert child 486292
+visit child 1
+insert right 767445
+visit right
+insert right 968251
+visit right
+insert right 490737
+visit right
+insert right 299187
+visit right
+insert right 656750
+visit right
+insert child 180448
+visit child 1
+insert right 296216
+visit right
+insert right 87844
+visit right
+insert right 326854
+visit right
+insert right 832302
+visit right
+insert right 991067
+visit right
+insert child 765516
+visit child 1
+insert right 891314
+visit right
+insert right 610479
+visit right
+insert right 842906
+visit right
+insert right 102243
+visit right
+insert right 86252
+visit right
+insert child 249768
+visit child 1
+insert right 226240
+visit right
+insert right 929804
+visit right
+insert right 709394
+visit right
+insert right 898140
+visit right
+insert right 15053
+visit right
+insert child 845966
+visit child 1
+insert right 108508
+visit right
+insert right 385356
+visit right
+insert right 793998
+visit right
+insert right 90736
+visit right
+insert right 648861
+visit right
+insert child 59438
+visit child 1
+insert right 455366
+visit right
+insert right 309672
+visit right
+insert right 313646
+visit right
+insert right 626529
+visit right
+insert right 146591
+visit right
+insert child 771379
+visit child 1
+insert right 220305
+visit right
+insert right 532404
+visit right
+insert right 783196
+visit right
+insert right 245220
+visit right
+insert right 396222
+visit right
+insert child 598757
+visit child 1
+insert right 36365
+visit right
+insert right 423036
+visit right
+insert right 469651
+visit right
+insert right 704127
+visit right
+insert right 674147
+visit right
+insert child 808605
+visit child 1
+insert right 759728
+visit right
+insert right 377882
+visit right
+insert right 743781
+visit right
+insert right 849135
+visit right
+insert right 508102
+visit right
+insert child 801456
+visit child 1
+insert right 371992
+visit right
+insert right 270157
+visit right
+insert right 672086
+visit right
+insert right 251162
+visit right
+insert right 613857
+visit right
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit left
+print
+visit parent

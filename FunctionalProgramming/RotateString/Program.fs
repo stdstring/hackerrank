@@ -14,7 +14,7 @@ let gen_rotations (str : string) =
             let result = str.Substring(index) + str.Substring(0, index)
             Some(result, index + 1)
     Seq.unfold generator 1
-    
+
 let output_rotations rotations =
     let output_rotation index rotation =
         match index with

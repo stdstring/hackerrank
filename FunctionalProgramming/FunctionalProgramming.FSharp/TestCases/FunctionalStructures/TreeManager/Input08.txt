@@ -1,0 +1,1001 @@
+1000
+change 110991
+insert child 292270
+visit child 1
+insert child 470460
+insert child 471525
+print
+change 337672
+change 51909
+insert left 837281
+visit left
+insert child 39649
+visit child 1
+change 188362
+insert child 351723
+insert left 856660
+visit child 1
+visit parent
+insert left 975405
+change 849018
+visit left
+change 759656
+insert right 705746
+visit left
+insert left 476778
+insert child 894317
+insert child 98139
+visit parent
+visit child 5
+insert child 369616
+visit left
+insert child 952873
+delete
+delete
+visit child 1
+print
+delete
+change 647216
+insert child 887646
+visit child 1
+print
+insert right 146150
+print
+print
+insert left 257805
+insert left 116899
+print
+insert right 887976
+visit parent
+visit child 4
+print
+insert right 167463
+visit right
+visit right
+print
+change 942484
+change 136834
+insert right 45307
+insert child 253910
+insert left 651633
+visit child 1
+change 554221
+insert left 626387
+insert left 750461
+change 423358
+visit parent
+change 830365
+insert left 68716
+insert right 898254
+insert child 543327
+change 118134
+visit right
+print
+change 985673
+change 690593
+insert child 227924
+delete
+visit child 5
+visit parent
+change 336792
+insert child 690202
+print
+insert child 874908
+change 605182
+print
+print
+change 180991
+print
+insert child 479698
+change 705708
+print
+insert child 329349
+insert child 399813
+change 826163
+print
+insert child 998359
+change 570946
+insert child 984644
+change 24546
+print
+change 926121
+change 479125
+insert child 478698
+insert child 383947
+insert child 202801
+change 768565
+print
+print
+print
+print
+change 925105
+change 156638
+change 523060
+print
+print
+change 260366
+change 198666
+change 315749
+insert child 980783
+print
+print
+change 174641
+change 150790
+print
+change 355370
+print
+insert child 103596
+change 575039
+insert child 673525
+print
+print
+print
+change 902282
+change 13433
+change 433912
+change 622953
+print
+print
+print
+print
+insert child 382920
+print
+change 628542
+print
+insert child 522513
+change 495866
+print
+change 520370
+insert child 430413
+insert child 384375
+insert child 578658
+change 66963
+print
+insert child 355820
+print
+print
+print
+print
+change 850552
+insert child 483958
+print
+print
+print
+change 395617
+insert child 777427
+print
+print
+change 817466
+insert child 411876
+change 388699
+insert child 688801
+insert child 93169
+change 160275
+change 22612
+change 125285
+print
+insert child 83932
+change 402133
+print
+change 864908
+change 744282
+print
+print
+change 437785
+change 476246
+change 948292
+insert child 295292
+change 615384
+insert child 242508
+print
+insert child 742405
+print
+print
+insert child 193871
+change 590411
+change 380875
+print
+insert child 525008
+change 897378
+insert child 864785
+print
+print
+insert child 21437
+change 284322
+insert child 792342
+print
+insert child 821365
+insert child 197401
+print
+insert child 878340
+change 17772
+insert child 547649
+change 607512
+change 210002
+change 866918
+insert child 233192
+print
+print
+change 951820
+insert child 381711
+print
+change 233496
+print
+change 700968
+change 244323
+insert child 695177
+change 854808
+insert child 476914
+insert child 134471
+change 681501
+print
+print
+insert child 835380
+insert child 779442
+insert child 606215
+change 571663
+change 52010
+print
+print
+print
+change 616971
+change 13058
+change 554251
+print
+insert child 910029
+insert child 364266
+insert child 189971
+insert child 286757
+print
+print
+insert child 752282
+change 27223
+insert child 562869
+change 153917
+change 717164
+print
+change 745525
+print
+print
+change 812715
+print
+change 532332
+print
+print
+print
+insert child 947059
+print
+insert child 191611
+print
+insert child 809947
+change 385074
+insert child 895371
+print
+print
+insert child 858328
+change 6577
+change 778050
+change 184733
+insert child 556150
+insert child 606129
+change 650851
+print
+change 481129
+change 3570
+change 55742
+insert child 57698
+insert child 696446
+print
+change 333080
+change 540478
+change 681553
+change 815640
+insert child 144779
+print
+insert child 776460
+change 938792
+change 487403
+print
+insert child 679873
+insert child 582380
+print
+insert child 447544
+print
+change 2751
+print
+change 226840
+insert child 502028
+print
+print
+change 88342
+change 336575
+print
+change 715843
+change 507424
+change 942703
+change 801511
+insert child 503009
+change 749481
+print
+insert child 580921
+print
+insert child 604582
+insert child 292329
+change 69217
+print
+change 188651
+insert child 434430
+insert child 554740
+print
+insert child 457077
+change 922788
+insert child 705563
+print
+change 540066
+print
+change 777630
+insert child 632260
+change 788353
+change 808047
+change 115130
+insert child 734164
+insert child 993411
+change 383666
+change 822983
+insert child 414340
+insert child 995627
+change 509152
+change 16636
+insert child 777622
+change 980872
+print
+insert child 498169
+change 847680
+print
+change 573662
+insert child 439292
+insert child 35273
+change 8861
+print
+insert child 835289
+insert child 189237
+print
+insert child 51063
+print
+print
+print
+print
+insert child 800274
+change 870472
+change 491469
+change 282043
+change 738826
+change 124480
+print
+insert child 318707
+insert child 512493
+change 985458
+insert child 159520
+change 301330
+change 24220
+print
+print
+change 878693
+change 693862
+print
+print
+insert child 369033
+change 645394
+insert child 186945
+change 60607
+change 671828
+print
+insert child 106609
+print
+insert child 12076
+change 353929
+change 965378
+change 602325
+insert child 781809
+change 772350
+print
+print
+change 365835
+change 209078
+change 808012
+insert child 319287
+insert child 895559
+print
+change 196709
+print
+insert child 515503
+insert child 862876
+change 105547
+change 869460
+print
+print
+change 163253
+insert child 543813
+change 189416
+change 442174
+print
+print
+change 161515
+print
+change 425784
+insert child 870015
+print
+change 323916
+print
+change 143516
+insert child 191185
+insert child 424808
+insert child 126700
+print
+change 890448
+change 735505
+insert child 849991
+insert child 810492
+insert child 291391
+change 565066
+print
+insert child 233688
+print
+print
+insert child 284171
+insert child 823671
+change 671892
+print
+print
+change 716619
+change 515623
+insert child 877843
+change 789754
+change 402710
+change 54045
+print
+change 197059
+change 107971
+insert child 635706
+print
+insert child 747405
+change 754398
+insert child 243570
+insert child 606708
+insert child 223885
+print
+insert child 684482
+print
+insert child 744711
+insert child 306898
+insert child 473938
+insert child 664758
+insert child 812821
+insert child 794715
+change 674347
+change 87610
+insert child 795631
+insert child 105515
+change 964740
+change 820141
+insert child 309305
+print
+print
+insert child 68179
+change 720276
+print
+change 391170
+change 186420
+insert child 226848
+insert child 840466
+insert child 745408
+change 94781
+change 301482
+print
+insert child 587127
+change 966715
+print
+change 585655
+insert child 721651
+change 264004
+change 361881
+print
+insert child 279110
+print
+change 92492
+change 407333
+print
+insert child 521069
+print
+insert child 426920
+insert child 993498
+insert child 981917
+insert child 265293
+insert child 185857
+change 861751
+print
+insert child 664017
+change 30162
+print
+print
+insert child 773562
+change 184946
+change 24521
+insert child 430901
+print
+print
+insert child 854399
+insert child 229644
+insert child 373569
+insert child 422802
+change 585082
+insert child 248693
+print
+change 741658
+print
+print
+change 251140
+print
+print
+change 829048
+change 978218
+change 581119
+insert child 268502
+change 954693
+change 771044
+insert child 125878
+print
+print
+print
+print
+insert child 607928
+print
+change 25932
+change 190647
+insert child 15821
+insert child 299960
+change 457718
+print
+change 346012
+change 918293
+insert child 88537
+change 709039
+insert child 183303
+insert child 928805
+change 883111
+change 643354
+print
+insert child 535052
+change 285833
+print
+print
+change 385277
+insert child 872206
+print
+print
+print
+insert child 254189
+insert child 594189
+insert child 832901
+change 744768
+change 768302
+print
+insert child 19700
+change 570735
+insert child 22351
+change 14761
+insert child 800308
+print
+insert child 868924
+print
+print
+change 493428
+change 657579
+insert child 706957
+print
+change 473657
+print
+change 309638
+print
+insert child 227699
+print
+change 874405
+print
+change 837863
+insert child 944939
+print
+change 97309
+insert child 954162
+print
+insert child 687117
+print
+change 491034
+change 723716
+print
+print
+print
+insert child 695771
+insert child 9258
+change 674287
+print
+insert child 170408
+insert child 742215
+print
+change 825890
+print
+change 791065
+insert child 209965
+print
+change 734698
+insert child 431359
+insert child 538444
+insert child 453101
+change 590426
+change 24253
+insert child 597494
+insert child 61213
+print
+insert child 273388
+change 89030
+insert child 356695
+change 290036
+change 106901
+print
+insert child 234349
+insert child 14051
+print
+print
+print
+print
+print
+change 709846
+change 857093
+insert child 389629
+change 297306
+change 669505
+insert child 237661
+insert child 776031
+print
+insert child 299469
+insert child 357803
+insert child 76600
+insert child 707375
+change 203923
+change 223241
+print
+change 269731
+insert child 747117
+print
+print
+change 874263
+print
+change 916670
+insert child 316871
+print
+print
+print
+insert child 740993
+insert child 504818
+change 453772
+change 297543
+insert child 94739
+insert child 144252
+insert child 709110
+change 730051
+print
+insert child 330473
+insert child 145507
+print
+change 436952
+insert child 339609
+insert child 343599
+insert child 129230
+change 752745
+print
+print
+insert child 307161
+insert child 218841
+print
+change 215073
+print
+change 123577
+change 768759
+print
+change 478763
+change 73375
+change 787619
+insert child 239361
+insert child 256417
+insert child 441738
+print
+print
+print
+insert child 73422
+print
+insert child 318409
+insert child 4417
+print
+print
+insert child 584941
+change 577194
+insert child 127352
+insert child 864103
+change 548942
+insert child 789963
+insert child 616260
+print
+print
+insert child 99508
+change 884264
+print
+change 912753
+change 320108
+change 643697
+print
+change 786701
+insert child 641128
+change 802061
+insert child 653760
+insert child 424638
+print
+change 782068
+print
+print
+print
+print
+print
+print
+change 958484
+insert child 546329
+insert child 667663
+print
+change 765887
+change 709203
+change 39185
+print
+print
+insert child 883144
+insert child 340949
+print
+print
+insert child 941392
+print
+insert child 894901
+change 897977
+print
+insert child 84927
+change 381067
+insert child 708029
+change 410606
+print
+change 455276
+insert child 134252
+print
+change 390913
+insert child 978337
+change 620725
+insert child 414158
+change 348585
+insert child 267150
+insert child 218941
+insert child 336376
+change 912035
+insert child 538178
+print
+insert child 150718
+insert child 832913
+print
+insert child 110819
+change 147256
+change 508507
+change 231971
+insert child 28447
+print
+insert child 814580
+change 474537
+print
+print
+change 693097
+print
+insert child 498118
+change 839334
+print
+change 605489
+change 294369
+print
+print
+change 535442
+insert child 524424
+change 786251
+change 729511
+print
+change 447893
+print
+print
+change 830066
+change 551626
+insert child 681468
+print
+print
+insert child 774845
+change 370900
+change 878918
+insert child 824661
+insert child 237777
+change 735107
+print
+insert child 193139
+print
+change 53613
+print
+insert child 110380
+insert child 940965
+insert child 191093
+print
+insert child 462498
+print
+print
+print
+insert child 835184
+insert child 203490
+change 323163
+print
+print
+insert child 937232
+print
+change 714830
+insert child 744785
+insert child 149931
+print
+print
+insert child 819570
+print
+print
+print
+change 989845
+insert child 610376
+print
+insert child 892166
+change 671387
+insert child 255957
+insert child 283251
+insert child 635720
+change 916688
+insert child 151696
+insert child 872885
+insert child 160243
+insert child 678985
+print
+insert child 734225
+change 284772
+change 857819
+change 913346
+insert child 133532
+change 404365
+print
+print
+insert child 248007
+insert child 881032
+insert child 57709
+change 428773
+insert child 777921
+change 663115
+insert child 740375
+change 76384
+print
+print
+change 154305
+change 485916
+insert child 812744
+change 252539
+insert child 693042
+insert child 566415
+print
+print
+print
+change 683558
+change 821214
+change 850219
+print
+print
+print
+print
+insert child 288939
+print
+insert child 579224
+insert child 927943
+change 347965
+insert child 389273
+change 988016
+print
+insert child 905966
+insert child 737899
+insert child 790965
+print
+print
+print
+insert child 962807
+change 516380
+insert child 542013
+change 892483
+print
+print
+insert child 387548
+print
+change 237867
+change 317659
+change 218378
+insert child 180700
+print
+print
+change 638173
+insert child 948594
+print
+change 76229
+change 894220
+change 440339
+print
+print
+change 136214
+print
+change 330248
+insert child 507174
+print
+insert child 627202
+change 762469
+change 843536
+change 602576
+print
+change 292461
+change 373075
+insert child 402047
+change 717343
+insert child 520414
+insert child 710236
+insert child 655466
+change 946776
+insert child 643957
+print
+change 161909
+insert child 705807
+print
+change 551818
+change 334092
+print
+print
+change 322252
+print
+print
+print
+insert child 711918
+insert child 445896
+change 182714
+change 790281
+insert child 644317
+change 69731
+insert child 865507
+print
+insert child 657032
+print
+change 632893
+insert child 666808
+change 909815
+insert child 634395
+change 506158
+print
+print
+print
+change 751797
+change 406591
+change 597133
+insert child 96021
+print
+change 173821
+change 115430
+print
+insert child 80995
+insert child 518030
+insert child 113165
+print
+print
+insert child 741885

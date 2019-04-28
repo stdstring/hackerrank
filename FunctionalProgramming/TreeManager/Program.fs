@@ -1,4 +1,4 @@
-﻿// https://www.hackerrank.com/challenges/tree-manager
+﻿// from https://www.hackerrank.com/challenges/tree-manager
 
 module TreeManagerModule
 
@@ -19,7 +19,7 @@ type Command =
     | InsertRight of int
     | InsertChild of int
     | Delete
-    
+
 let parse_command (rawCommand : string) =
     match rawCommand.Split(' ') with
     | [|"change"; value|] -> ChangeValue(value |> int)
@@ -33,12 +33,12 @@ let parse_command (rawCommand : string) =
     | [|"insert"; "child"; value|] -> InsertChild(value |> int)
     | [|"delete"|] -> Delete
     | _ -> failwith "Unknown command"
-    
+
 let get_parent (node : Node) =
     match node.parent with
     | Some(parent) -> parent
     | _ -> failwith "Try get parent for root"
-    
+
 let process_command (node : Node) (command : Command) =
     match command with
     | ChangeValue(value) ->
