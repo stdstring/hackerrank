@@ -1304,7 +1304,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FunctionalProgramming.Common\FunctionalProgramming.Common.fsproj" />
+    <ProjectReference Include="..\FunctionalProgramming.Common\FunctionalProgramming.Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>
