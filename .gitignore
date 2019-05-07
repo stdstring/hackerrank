@@ -1,3 +1,5 @@
+# common
+*.fsproj.user
 # Algorithms tasks
 Algorithms/.vs/*
 Algorithms/**/bin/*
