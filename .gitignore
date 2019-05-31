@@ -1,16 +1,12 @@
 # common
 *.fsproj.user
-# Algorithms tasks
-Algorithms/.vs/*
-Algorithms/**/bin/*
-Algorithms/**/obj/*
 # ArtificialIntelligence tasks
 ArtificialIntelligence/.vs/*
 ArtificialIntelligence/**/bin/*
 ArtificialIntelligence/**/obj/*
-# FunctionalProgramming tasks
-FunctionalProgramming/.vs/*
-FunctionalProgramming/**/bin/*
-FunctionalProgramming/**/obj/*
+# ProblemSolving tasks
+ProblemSolving/.vs/*
+ProblemSolving/**/bin/*
+ProblemSolving/**/obj/*
 # Cpp
 Cpp/build
