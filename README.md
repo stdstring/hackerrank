@@ -37,8 +37,17 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 10. [Trie](https://www.hackerrank.com/domains/data-structures/trie)
 11. [Advanced](https://www.hackerrank.com/domains/data-structures/data-structures)
 
-### [Artificial Intelligence](https://www.hackerrank.com/domains/ai):
+### [Mathematics](https://www.hackerrank.com/domains/mathematics):
+1. [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals)
+   * [Find the Point](https://www.hackerrank.com/challenges/find-point)
+2. [Number Theory](https://www.hackerrank.com/domains/mathematics/number-theory)
+3. [Combinatorics](https://www.hackerrank.com/domains/mathematics/combinatorics)
+4. [Algebra](https://www.hackerrank.com/domains/mathematics/algebra)
+5. [Geometry](https://www.hackerrank.com/domains/mathematics/geometry)
+6. [Probability](https://www.hackerrank.com/domains/mathematics/probability)
+7. [Linear Algebra Foundations](https://www.hackerrank.com/domains/mathematics/linear-algebra-foundations)
 
+### [Artificial Intelligence](https://www.hackerrank.com/domains/ai):
 1. [Bot Building](https://www.hackerrank.com/domains/ai/introduction):
    * [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess)
 2. [A* Search](https://www.hackerrank.com/domains/ai/astar-search):
@@ -51,7 +60,6 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 9. [Probability & Statistics - Foundations](https://www.hackerrank.com/domains/ai/statistics-foundations):
 
 ### [Functional Programming](https://www.hackerrank.com/domains/fp):
-
 1. [Introduction](https://www.hackerrank.com/domains/fp/intro):
    * [List Replication](https://www.hackerrank.com/challenges/fp-list-replication)
    * [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array)
