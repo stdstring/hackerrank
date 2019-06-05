@@ -15,6 +15,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FunctionalProgramming.FShar
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FunctionalProgramming.FSharp.AppExample", "FunctionalProgramming.FSharp.AppExample\FunctionalProgramming.FSharp.AppExample.fsproj", "{42ADD129-51F3-4043-AEC7-A3C0892D7B26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{0513546E-40F2-4D24-8216-05AB0C7BB34D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{42ADD129-51F3-4043-AEC7-A3C0892D7B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42ADD129-51F3-4043-AEC7-A3C0892D7B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42ADD129-51F3-4043-AEC7-A3C0892D7B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0513546E-40F2-4D24-8216-05AB0C7BB34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0513546E-40F2-4D24-8216-05AB0C7BB34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0513546E-40F2-4D24-8216-05AB0C7BB34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0513546E-40F2-4D24-8216-05AB0C7BB34D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

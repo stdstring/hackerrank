@@ -13,4 +13,8 @@
     <ProjectReference Include="..\ProblemSolving.Common\ProblemSolving.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="4.6.2" />
+  </ItemGroup>
+
 </Project>

@@ -23,6 +23,20 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 12. [Game Theory](https://www.hackerrank.com/domains/algorithms/game-theory)
 13. [NP Complete](https://www.hackerrank.com/domains/algorithms/np-complete-problems)
 
+### [Data Structures](https://www.hackerrank.com/domains/data-structures):
+1. [Arrays](https://www.hackerrank.com/domains/data-structures/arrays)
+   * [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)
+2. [Linked Lists](https://www.hackerrank.com/domains/data-structures/linked-lists)
+3. [Trees](https://www.hackerrank.com/domains/data-structures/trees)
+4. [Balanced Trees](https://www.hackerrank.com/domains/data-structures/balanced-trees)
+5. [Stacks](https://www.hackerrank.com/domains/data-structures/stacks)
+6. [Queues](https://www.hackerrank.com/domains/data-structures/queues)
+7. [Heap](https://www.hackerrank.com/domains/data-structures/heap)
+8. [Disjoint Set](https://www.hackerrank.com/domains/data-structures/disjoint-set)
+9. [Multiple Choice](https://www.hackerrank.com/domains/data-structures/multiple-choice)
+10. [Trie](https://www.hackerrank.com/domains/data-structures/trie)
+11. [Advanced](https://www.hackerrank.com/domains/data-structures/data-structures)
+
 ### [Artificial Intelligence](https://www.hackerrank.com/domains/ai):
 
 1. [Bot Building](https://www.hackerrank.com/domains/ai/introduction):
