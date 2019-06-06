@@ -16,7 +16,7 @@ namespace DataStructures.Arrays
             _outputWriter = outputWriter;
         }
 
-        public int Execute(String[] args)
+        public Int32 Execute(String[] args)
         {
             const Int32 rowCount = 6;
             const Int32 columnCount = 6;
