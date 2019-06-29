@@ -20,6 +20,7 @@
     <Folder Include="TestCases\Implementation\GradingStudents\" />
     <Folder Include="TestCases\Sorting\SortingIntro\" />
     <Folder Include="TestCases\Warmup\DiagonalDifference\" />
+    <Folder Include="TestCases\Warmup\BirthdayCakeCandles\" />
     <Folder Include="TestCases\Warmup\Staircase\" />
     <Folder Include="TestCases\Warmup\PlusMinus\" />
   </ItemGroup>
@@ -185,6 +186,33 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="TestCases\Sorting\SortingIntro\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Warmup\BirthdayCakeCandles\Input08.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="TestCases\Warmup\DiagonalDifference\Input00.txt">

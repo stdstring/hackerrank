@@ -6,6 +6,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
    * [Staircase](https://www.hackerrank.com/challenges/staircase)
    * [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
+   * [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
    * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
 2. [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
    * [Grading Students](https://www.hackerrank.com/challenges/grading)
