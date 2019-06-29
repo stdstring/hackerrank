@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="TestCases\Implementation\GradingStudents\" />
+    <Folder Include="TestCases\Implementation\AppleOrange\" />
     <Folder Include="TestCases\Sorting\SortingIntro\" />
     <Folder Include="TestCases\Warmup\DiagonalDifference\" />
     <Folder Include="TestCases\Warmup\BirthdayCakeCandles\" />
@@ -26,6 +27,42 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="TestCases\Implementation\AppleOrange\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input08.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input09.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\AppleOrange\Input11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="TestCases\Implementation\GradingStudents\Input00.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
