@@ -18,29 +18,29 @@ namespace Algorithms.Implementation
 
         public Int32 Execute(String[] args)
         {
-            Int32[] st = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
-            Int32 s = st[0];
-            Int32 t = st[1];
-            Int32[] ab = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
-            Int32 a = ab[0];
-            Int32 b = ab[1];
-            Int32[] mn = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
-            Int32 m = mn[0];
-            Int32 n = mn[1];
+            Int32[] stValues = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
+            Int32 sValue = stValues[0];
+            Int32 tValue = stValues[1];
+            Int32[] abValues = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
+            Int32 aValue = abValues[0];
+            Int32 bValue = abValues[1];
+            Int32[] mnValues = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
+            Int32 mValue = mnValues[0];
+            Int32 nValue = mnValues[1];
             Int32[] apples = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
             Int32[] oranges = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
             Int32 applesOnHouse = 0;
-            for (Int32 index = 0; index < m; ++index)
+            for (Int32 index = 0; index < mValue; ++index)
             {
-                Int32 apple = a + apples[index];
-                if (s <= apple && apple <= t)
+                Int32 apple = aValue + apples[index];
+                if (sValue <= apple && apple <= tValue)
                     ++applesOnHouse;
             }
             Int32 orangesOnHouse = 0;
-            for (Int32 index = 0; index < n; ++index)
+            for (Int32 index = 0; index < nValue; ++index)
             {
-                Int32 orange = b + oranges[index];
-                if (s <= orange && orange <= t)
+                Int32 orange = bValue + oranges[index];
+                if (sValue <= orange && orange <= tValue)
                     ++orangesOnHouse;
             }
             _outputWriter.WriteLine(applesOnHouse);
