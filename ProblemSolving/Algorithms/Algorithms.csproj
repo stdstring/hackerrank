@@ -19,6 +19,7 @@
   <ItemGroup>
     <Folder Include="TestCases\Implementation\GradingStudents\" />
     <Folder Include="TestCases\Implementation\AppleOrange\" />
+    <Folder Include="TestCases\Implementation\DivisibleSumPairs\" />
     <Folder Include="TestCases\Sorting\SortingIntro\" />
     <Folder Include="TestCases\Warmup\DiagonalDifference\" />
     <Folder Include="TestCases\Warmup\BirthdayCakeCandles\" />
@@ -61,6 +62,66 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="TestCases\Implementation\AppleOrange\Input11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input08.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input09.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input12.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input13.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input14.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input15.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input16.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input17.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input18.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Implementation\DivisibleSumPairs\Input19.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="TestCases\Implementation\GradingStudents\Input00.txt">
