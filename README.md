@@ -11,6 +11,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 2. [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
    * [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)
    * [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)
+   * [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)
    * [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
    * [Grading Students](https://www.hackerrank.com/challenges/grading)
    * [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)
