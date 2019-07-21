@@ -95,6 +95,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation)
    * [Tree manager](https://www.hackerrank.com/challenges/tree-manager)
 4. [Memoization and DP](https://www.hackerrank.com/domains/fp/dp)
+   * [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp)
 5. [Persistent Structures](https://www.hackerrank.com/domains/fp/persistent-ds)
 6. [Ad Hoc](https://www.hackerrank.com/domains/fp/misc):
    * [Captain Prime](https://www.hackerrank.com/challenges/captain-prime)

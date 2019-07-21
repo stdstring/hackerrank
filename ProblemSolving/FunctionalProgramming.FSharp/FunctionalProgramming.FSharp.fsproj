@@ -22,6 +22,7 @@
     <Compile Include="Introduction\ListReplication.fs" />
     <Compile Include="Introduction\PolygonAreaCalculation.fs" />
     <Compile Include="Introduction\PolygonPerimeterCalculation.fs" />
+    <Compile Include="MemoizationDP\Fibonacci.fs" />
     <Compile Include="Recursion\ColorsSequence.fs" />
     <Compile Include="Recursion\ComputingFibonacci.fs" />
     <Compile Include="Recursion\ComputingGCD.fs" />
@@ -759,6 +760,30 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\Introduction\PolygonPerimeterCalculation\Input23.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Output00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Output01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Output02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\Fibonacci\Output03.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\Recursion\ColorsSequence\Input00.txt">
