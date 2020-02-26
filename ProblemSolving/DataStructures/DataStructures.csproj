@@ -19,10 +19,59 @@
   <ItemGroup>
     <Folder Include="TestCases\Arrays\DynamicArray\" />
     <Folder Include="TestCases\Arrays\LeftRotation\" />
+    <Folder Include="TestCases\Arrays\ArrayManipulation\" />
     <Folder Include="TestCases\Arrays\SparseArrays\" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input08.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input09.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input12.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input13.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input14.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestCases\Arrays\ArrayManipulation\Input15.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="TestCases\Arrays\DynamicArray\Input00.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
