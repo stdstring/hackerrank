@@ -32,6 +32,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 ### [Data Structures](https://www.hackerrank.com/domains/data-structures):
 1. [Arrays](https://www.hackerrank.com/domains/data-structures/arrays)
    * [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)
+   * [Array Manipulation](https://www.hackerrank.com/challenges/crush)
    * [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)
    * [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)
    * [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)
