@@ -40,6 +40,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 3. [Trees](https://www.hackerrank.com/domains/data-structures/trees)
 4. [Balanced Trees](https://www.hackerrank.com/domains/data-structures/balanced-trees)
 5. [Stacks](https://www.hackerrank.com/domains/data-structures/stacks)
+   * [Maximum Element](https://www.hackerrank.com/challenges/maximum-element)
 6. [Queues](https://www.hackerrank.com/domains/data-structures/queues)
 7. [Heap](https://www.hackerrank.com/domains/data-structures/heap)
 8. [Disjoint Set](https://www.hackerrank.com/domains/data-structures/disjoint-set)
