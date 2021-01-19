@@ -93,6 +93,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [String Mingling](https://www.hackerrank.com/challenges/string-mingling)
    * [String Reductions](https://www.hackerrank.com/challenges/string-reductions)
    * [Super Digit](https://www.hackerrank.com/challenges/super-digit)
+   * [The Sums of Powers](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers)
 3. [Functional Structures](https://www.hackerrank.com/domains/fp/ds):
    * [Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation)
    * [Tree manager](https://www.hackerrank.com/challenges/tree-manager)

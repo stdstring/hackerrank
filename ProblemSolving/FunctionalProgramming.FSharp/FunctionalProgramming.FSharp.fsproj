@@ -35,6 +35,7 @@
     <Compile Include="Recursion\StringMingling.fs" />
     <Compile Include="Recursion\StringPermute.fs" />
     <Compile Include="Recursion\StringReductions.fs" />
+    <Compile Include="Recursion\SumsOfPowers.fs" />
     <Compile Include="Recursion\SuperDigit.fs" />
   </ItemGroup>
 
