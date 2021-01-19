@@ -1,5 +1,5 @@
 # common
-*.fsproj.user
+*.user
 # ArtificialIntelligence tasks
 ArtificialIntelligence/.vs/*
 ArtificialIntelligence/**/bin/*
