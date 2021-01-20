@@ -22,6 +22,7 @@
     <Compile Include="Introduction\ListReplication.fs" />
     <Compile Include="Introduction\PolygonAreaCalculation.fs" />
     <Compile Include="Introduction\PolygonPerimeterCalculation.fs" />
+    <Compile Include="MemoizationDP\DifferentWays.fs" />
     <Compile Include="MemoizationDP\Fibonacci.fs" />
     <Compile Include="Recursion\ColorsSequence.fs" />
     <Compile Include="Recursion\ComputingFibonacci.fs" />
@@ -761,6 +762,42 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\Introduction\PolygonPerimeterCalculation\Input23.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Output00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Output01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Output02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Output03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Output04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\MemoizationDP\DifferentWays\Output05.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\MemoizationDP\Fibonacci\Input00.txt">
