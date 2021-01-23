@@ -95,6 +95,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Super Digit](https://www.hackerrank.com/challenges/super-digit)
    * [The Sums of Powers](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers)
 3. [Functional Structures](https://www.hackerrank.com/domains/fp/ds):
+   * [Lists and GCD](https://www.hackerrank.com/challenges/lists-and-gcd)
    * [Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation)
    * [Tree manager](https://www.hackerrank.com/challenges/tree-manager)
 4. [Memoization and DP](https://www.hackerrank.com/domains/fp/dp)

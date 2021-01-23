@@ -11,6 +11,7 @@
     <Compile Include="AdHoc\MissingNumbers.fs" />
     <Compile Include="AdHoc\RemoveDuplicates.fs" />
     <Compile Include="AdHoc\RotateString.fs" />
+    <Compile Include="FunctionalStructures\ListsAndGCD.fs" />
     <Compile Include="FunctionalStructures\MatrixRotation.fs" />
     <Compile Include="FunctionalStructures\TreeManager.fs" />
     <Compile Include="InterpreterCompilers\BrainfuckInterpreter.fs" />
@@ -300,6 +301,108 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\AdHoc\RotateString\Output11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input08.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input09.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input12.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input13.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input14.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input15.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Input16.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output08.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output09.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output12.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output13.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output14.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output15.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\FunctionalStructures\ListsAndGCD\Output16.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\FunctionalStructures\MatrixRotation\Input00.txt">
