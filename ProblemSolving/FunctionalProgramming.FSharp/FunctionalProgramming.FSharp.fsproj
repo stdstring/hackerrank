@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Compile Include="AdHoc\CaptainPrime.fs" />
+    <Compile Include="AdHoc\HugeGCD.fs" />
     <Compile Include="AdHoc\MissingNumbers.fs" />
     <Compile Include="AdHoc\RemoveDuplicates.fs" />
     <Compile Include="AdHoc\RotateString.fs" />
@@ -190,6 +191,51 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\AdHoc\CaptainPrime\Output24.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input08.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input09.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input10.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input11.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input12.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input13.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\AdHoc\HugeGCD\Input14.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\AdHoc\MissingNumbers\Input00.txt">
