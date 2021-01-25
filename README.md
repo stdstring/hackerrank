@@ -108,6 +108,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Missing Numbers (FP)](https://www.hackerrank.com/challenges/missing-numbers-fp)
    * [Remove Duplicates](https://www.hackerrank.com/challenges/remove-duplicates)
    * [Rotate String](https://www.hackerrank.com/challenges/rotate-string)
+   * [Subset Sum](https://www.hackerrank.com/challenges/subset-sum)
 7. [Parsers](https://www.hackerrank.com/domains/fp/parsers)
 8. [Interpreter and Compilers](https://www.hackerrank.com/domains/fp/compilers):
    * [BrainF__k interpreter](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
