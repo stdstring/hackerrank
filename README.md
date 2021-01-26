@@ -104,6 +104,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 5. [Persistent Structures](https://www.hackerrank.com/domains/fp/persistent-ds)
 6. [Ad Hoc](https://www.hackerrank.com/domains/fp/misc):
    * [Captain Prime](https://www.hackerrank.com/challenges/captain-prime)
+   * [Common Divisors](https://www.hackerrank.com/challenges/common-divisors)
    * [Huge GCD](https://www.hackerrank.com/challenges/huge-gcd-fp)
    * [Missing Numbers (FP)](https://www.hackerrank.com/challenges/missing-numbers-fp)
    * [Remove Duplicates](https://www.hackerrank.com/challenges/remove-duplicates)

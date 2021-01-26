@@ -10,7 +10,7 @@ type HugeGCDTask(input: TextReader, output: TextWriter) =
 
     [<Literal>]
     let ModValue = 1000000007L
-    
+
     [<Literal>]
     let MaxFactor = 10000
 
@@ -36,7 +36,7 @@ type HugeGCDTask(input: TextReader, output: TextWriter) =
         for factor in numberFactors do
             primeFactors.[factor] |> Seq.iter (fun prime -> storage.[prime] <- storage.[prime] + 1)
         storage
-    
+
     let calcGCD (maxFactor: int) (leftFactorization: int[]) (rightFactorization: int[]) =
         let multValues (factor1: int) (factor2: int) =
             (factor1 |> int64) * (factor2 |> int64) % ModValue |> int
