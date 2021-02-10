@@ -1,0 +1,18 @@
+sum := 0 ;
+cur := 0 ;
+while ( cur < 10000 ) do
+{
+    cur := cur + 1 ;
+    sum := sum + cur
+} ;
+
+p := 1000000007 ;
+cur := 0 ;
+prod := 1 ;
+
+while ( cur < 10000 ) do
+{
+    cur := cur + 1 ;
+    prod := prod * cur ;
+    prod := prod - prod / p * p
+}

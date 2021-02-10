@@ -18,6 +18,7 @@
     <Compile Include="FunctionalStructures\MatrixRotation.fs" />
     <Compile Include="FunctionalStructures\TreeManager.fs" />
     <Compile Include="InterpreterCompilers\BrainfuckInterpreter.fs" />
+    <Compile Include="InterpreterCompilers\WhileLanguageDirectImpl.fs" />
     <Compile Include="Introduction\AreaVolumeCalculation.fs" />
     <Compile Include="Introduction\EvaluatingExp.fs" />
     <Compile Include="Introduction\FilterArray.fs" />
@@ -859,6 +860,54 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\InterpreterCompilers\BrainfuckInterpreter\Output17.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Input07.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output00.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output02.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output03.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output04.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output05.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output06.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestCases\InterpreterCompilers\WhileLanguage\Output07.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestCases\Introduction\FunctionsOrNot\Input00.txt">

@@ -1,0 +1,40 @@
+a := 10 ;
+b := 100 ;
+c := 1000 ;
+
+if ( a > b and a > c ) then {
+    largest := a
+}
+else {
+    if ( b > a and b > c ) then {
+        largest := b
+    }
+    else {
+        largest := c
+    }
+ }
+;
+
+if ( a > b and a < c ) then {
+    middle := a
+}
+else {
+    if ( b > a and b < c ) then {
+        middle := b
+    }
+    else {
+        middle := c
+    }
+} ;
+
+if ( a < b and a < c ) then {
+    smallest := a
+}
+else {
+    if ( b < a and b < c ) then {
+        smallest := b
+    }
+    else {
+        smallest := c
+    }
+}

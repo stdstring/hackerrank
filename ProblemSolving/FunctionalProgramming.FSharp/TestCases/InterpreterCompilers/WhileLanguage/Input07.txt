@@ -1,0 +1,21 @@
+i := 0 ;
+
+oddsum := 0 ;
+evensum := 0 ;
+
+while ( i < 100 ) do
+{
+    j := 0 ;
+
+    while ( j < i ) do {
+        if ( j - j / 2 * 2 > 0 ) then {
+            oddsum := oddsum + j
+        }
+        else {
+            evensum := evensum + j
+        } ;
+        j := j + 1
+    } ;
+
+    i := i + 1
+}

@@ -1,0 +1,4 @@
+evensum 80850
+i 100
+j 99
+oddsum 80850

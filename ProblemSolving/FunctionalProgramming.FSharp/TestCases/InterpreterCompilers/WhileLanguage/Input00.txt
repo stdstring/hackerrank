@@ -1,0 +1,22 @@
+base := 2 ;
+power := 100 ;
+prime := 1000000007 ;
+
+res := 1 ;
+
+while ( power > 0 ) do {
+        parity := power - ( power / 2 * 2 ) ;
+        if ( power - power / 2 * 2 > 0 ) then
+        {
+            res := res * base ;
+            res := res - res / prime * prime
+        }
+        else
+        {
+            res := res
+        } ;
+
+    base := base * base ;
+    base := base - base / prime * prime ;
+    power :=  power / 2
+}

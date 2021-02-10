@@ -113,6 +113,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 7. [Parsers](https://www.hackerrank.com/domains/fp/parsers)
 8. [Interpreter and Compilers](https://www.hackerrank.com/domains/fp/compilers):
    * [BrainF__k interpreter](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
+   * [While Language](https://www.hackerrank.com/challenges/while-language-fp)
 
 ### [C++](https://www.hackerrank.com/domains/cpp):
 1. [Introduction](https://www.hackerrank.com/domains/cpp/cpp-introduction):
