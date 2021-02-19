@@ -18,11 +18,11 @@ namespace Mathematics.Fundamentals
 
         public int Execute(String[] args)
         {
-            Int32 n = Int32.Parse(_inputReader.ReadLine());
+            Int32 n = Convert.ToInt32(_inputReader.ReadLine());
             PointPair[] pointPairs = new PointPair[n];
             for (Int32 index = 0; index < n; ++index)
             {
-                Int32[] pointPairData = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
+                Int32[] pointPairData = (_inputReader.ReadLine() ?? "").Split().Select(Int32.Parse).ToArray();
                 pointPairs[index] = new PointPair(pointPairData[0], pointPairData[1], pointPairData[2], pointPairData[3]);
             }
             Point[] dest = new Point[n];
@@ -66,7 +66,6 @@ namespace Mathematics.Fundamentals
             public Point Q { get; }
         }
 
-
         private readonly TextReader _inputReader;
         private readonly TextWriter _outputWriter;
     }
@@ -74,10 +73,10 @@ namespace Mathematics.Fundamentals
     [TestFixture]
     public class FindPointTests
     {
-        [TestCase("2\r\n0 0 1 1\r\n1 1 2 2", "2 2\r\n3 3")]
-        [TestCase("10\r\n1 1 2 2\r\n4 3 5 2\r\n2 4 5 6\r\n1 2 2 2\r\n1 1 1 1\r\n1 2 2 1\r\n1 8 7 8\r\n9 1 1 1\r\n8 4 3 2\r\n7 8 9 1",
-                  "3 3\r\n6 1\r\n8 8\r\n3 2\r\n1 1\r\n3 0\r\n13 8\r\n-7 1\r\n-2 0\r\n11 -6")]
-        public void Execute(String input, String expectedOutput)
+        [TestCase(new []{"2", "0 0 1 1", "1 1 2 2"}, new []{"2 2", "3 3"})]
+        [TestCase(new[] {"10", "1 1 2 2", "4 3 5 2", "2 4 5 6", "1 2 2 2", "1 1 1 1", "1 2 2 1", "1 8 7 8", "9 1 1 1", "8 4 3 2", "7 8 9 1"},
+                  new[] {"3 3", "6 1", "8 8", "3 2", "1 1", "3 0", "13 8", "-7 1", "-2 0", "11 -6"})]
+        public void Execute(String[] input, String[] expectedOutput)
         {
             TaskExecutor.Execute((inputReader, outputWriter) => new FindPointTask(inputReader, outputWriter), input, expectedOutput);
         }

@@ -55,6 +55,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 3. [Combinatorics](https://www.hackerrank.com/domains/mathematics/combinatorics)
 4. [Algebra](https://www.hackerrank.com/domains/mathematics/algebra)
 5. [Geometry](https://www.hackerrank.com/domains/mathematics/geometry)
+   * [Points On a Line](https://www.hackerrank.com/challenges/points-on-a-line)
 6. [Probability](https://www.hackerrank.com/domains/mathematics/probability)
 7. [Linear Algebra Foundations](https://www.hackerrank.com/domains/mathematics/linear-algebra-foundations)
 
