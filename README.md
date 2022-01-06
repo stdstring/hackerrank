@@ -13,6 +13,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)
    * [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)
    * [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
+   * [Encryption](https://www.hackerrank.com/challenges/encryption)
    * [Grading Students](https://www.hackerrank.com/challenges/grading)
    * [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)
    * [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)
