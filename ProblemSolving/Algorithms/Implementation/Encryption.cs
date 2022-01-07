@@ -17,7 +17,7 @@ namespace Algorithms.Implementation
             _outputWriter = outputWriter;
         }
 
-        public int Execute(string[] args)
+        public Int32 Execute(String[] args)
         {
             String input = _inputReader.ReadLine();
             _outputWriter.WriteLine(Encrypt(input));

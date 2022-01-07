@@ -17,6 +17,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Grading Students](https://www.hackerrank.com/challenges/grading)
    * [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)
    * [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)
+   * [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar)
 3. [Strings](https://www.hackerrank.com/domains/algorithms/strings)
 4. [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting)
    * [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)
