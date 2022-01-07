@@ -24,11 +24,11 @@ namespace Algorithms.Implementation
             Int32[] dayMonthValues = _inputReader.ReadLine().Split().Select(Int32.Parse).ToArray();
             Int32 dayValue = dayMonthValues[0];
             Int32 monthValue = dayMonthValues[1];
-            _outputWriter.WriteLine(calcDivisionWaysCount(source, dayValue, monthValue));
+            _outputWriter.WriteLine(CalcDivisionWaysCount(source, dayValue, monthValue));
             return 0;
         }
 
-        public Int32 calcDivisionWaysCount(IList<Int32> source, Int32 day, Int32 month)
+        public Int32 CalcDivisionWaysCount(IList<Int32> source, Int32 day, Int32 month)
         {
             if (source.Count < month)
                 return 0;
