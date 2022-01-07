@@ -10,7 +10,6 @@ namespace Algorithms.Implementation
 {
     public class EncryptionTask : ITask
     {
-
         public EncryptionTask(TextReader inputReader, TextWriter outputWriter)
         {
             _inputReader = inputReader;
