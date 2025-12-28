@@ -18,8 +18,8 @@ namespace Algorithms.Warmup
 
         public Int32 Execute(String[] args)
         {
-            Int32 n = Int32.Parse(_inputReader.ReadLine());
-            Int32[] numbers = _inputReader.ReadLine().Split(' ').Select(Int32.Parse).ToArray();
+            Int32 n = Int32.Parse(_inputReader.ReadLine()!);
+            Int32[] numbers = _inputReader.ReadLine()!.Split(' ').Select(Int32.Parse).ToArray();
             Int32 positiveCount = 0;
             Int32 zeroCount = 0;
             Int32 negativeCount = 0;
@@ -59,10 +59,10 @@ namespace Algorithms.Warmup
         [TestCase("Input11.txt", new []{0.375000, 0.375000, 0.250000})]
         public void Execute(String inputFile, Double[] expectedOutput)
         {
+            void CheckValue(Double expectedValue, String actualValue) =>
+                Assert.That(Math.Abs(Double.Parse(actualValue) - expectedValue), Is.LessThanOrEqualTo(MaxAbsError));
             String input = File.ReadAllText(Path.Combine(RootDirectory, inputFile));
             TaskExecutor.Execute((inputReader, outputWriter) => new PlusMinusTask(inputReader, outputWriter), input, expectedOutput, CheckValue);
-
-            void CheckValue(Double expectedValue, String actualValue) => Assert.AreEqual(expectedValue, Double.Parse(actualValue), MaxAbsError);
         }
 
         private const String RootDirectory = ".//TestCases//Warmup//PlusMinus";

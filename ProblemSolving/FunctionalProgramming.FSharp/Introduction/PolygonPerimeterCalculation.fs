@@ -66,5 +66,6 @@ type PolygonPerimeterCalculationTests() =
         let input = File.ReadAllText(Path.Combine(RootDirectory, inputFile))
         let valueChecker (expectedValue: float) (actualValue: string) =
             let actualValue = actualValue |> System.Double.Parse
-            Assert.AreEqual(expectedValue, actualValue, MaxError)
+            let absError = (expectedValue - actualValue) |> abs
+            Assert.That(absError, Is.LessThanOrEqualTo(MaxError))
         TaskExecutor.Execute((fun reader writer -> new PolygonPerimeterCalculationTask(reader, writer) :> ITask), input, [|expectedValue|], valueChecker)

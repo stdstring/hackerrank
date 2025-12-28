@@ -60,5 +60,5 @@ type AreaVolumeCalculationTests() =
         let valueChecker (expectedValue: float) (actualValue: string) =
             let actualValue = actualValue |> System.Double.Parse
             let relativeError = (expectedValue - actualValue) / expectedValue |> abs
-            Assert.IsTrue(relativeError <= MaxRelativeError)
+            Assert.That(relativeError, Is.LessThanOrEqualTo(MaxRelativeError))
         TaskExecutor.Execute((fun reader writer -> new AreaVolumeCalculationTask(reader, writer) :> ITask), input, expectedOutput, valueChecker)
