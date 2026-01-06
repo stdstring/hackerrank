@@ -6,7 +6,7 @@ open NUnit.Framework
 open ProblemSolving.Common
 open System.IO
 
-type ComputingFibonacciTask(input: TextReader, output: TextWriter) =
+type FibonacciNumbersTask(input: TextReader, output: TextWriter) =
 
     let calcFib: int -> int =
         function
@@ -20,16 +20,16 @@ type ComputingFibonacciTask(input: TextReader, output: TextWriter) =
             calcFibImpl 2 1 0
 
     interface ITask with
-        member this.Execute(argv: string[]) =
+        member _.Execute(_: string[]) =
             input.ReadLine() |> int |> calcFib |> output.WriteLine
             0
 
 [<TestFixture>]
-type ComputingFibonacciTests() =
+type FibonacciNumbersTests() =
 
     [<TestCase("40", "63245986")>]
     [<TestCase("35", "5702887")>]
     [<TestCase("5", "3")>]
     [<TestCase("39", "39088169")>]
-    member public this.Execute(input: string, expectedOutput: string) =
-        TaskExecutor.Execute((fun reader writer -> new ComputingFibonacciTask(reader, writer) :> ITask), input, expectedOutput)
+    member public _.Execute(input: string, expectedOutput: string) =
+        TaskExecutor.Execute((fun reader writer -> new FibonacciNumbersTask(reader, writer) :> ITask), input, expectedOutput)

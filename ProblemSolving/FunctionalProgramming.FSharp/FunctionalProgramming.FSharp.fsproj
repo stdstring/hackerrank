@@ -30,8 +30,9 @@
     <Compile Include="MemoizationDP\DifferentWays.fs" />
     <Compile Include="MemoizationDP\Fibonacci.fs" />
     <Compile Include="Recursion\ColorsSequence.fs" />
-    <Compile Include="Recursion\ComputingFibonacci.fs" />
     <Compile Include="Recursion\ComputingGCD.fs" />
+    <Compile Include="Recursion\Crossword101.fs" />
+    <Compile Include="Recursion\FibonacciNumbers.fs" />
     <Compile Include="Recursion\FilterElements.fs" />
     <Compile Include="Recursion\PascalTriangle.fs" />
     <Compile Include="Recursion\PrefixCompression.fs" />
