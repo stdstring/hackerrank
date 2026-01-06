@@ -17,7 +17,7 @@ type SumsOfPowersTask(input: TextReader, output: TextWriter) =
         | power :: powersRest -> count |> calcPossibleWays powersRest (number - power) |> calcPossibleWays powersRest number
 
     interface ITask with
-        member this.Execute(argv: string[]) =
+        member _.Execute(_: string[]) =
             let x = input.ReadLine() |> int
             let n = input.ReadLine() |> int
             let powers = (fun index -> pown (index + 1) n) |> Seq.initInfinite |> Seq.takeWhile (fun power -> power <= x) |> Seq.toList

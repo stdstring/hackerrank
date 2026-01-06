@@ -87,6 +87,8 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [List Replication](https://www.hackerrank.com/challenges/fp-list-replication)
 2. [Recursion](https://www.hackerrank.com/domains/fp/recursion):
    * [Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd)
+   * [Crosswords-101](https://www.hackerrank.com/challenges/crosswords-101)
+   * [Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers)
    * [Filter Elements](https://www.hackerrank.com/challenges/filter-elements)
    * [Functions and Fractals - Recursive Trees](https://www.hackerrank.com/challenges/fractal-trees)
    * [Functions and Fractals: Sierpinski triangles](https://www.hackerrank.com/challenges/functions-and-fractals-sierpinski-triangles)
