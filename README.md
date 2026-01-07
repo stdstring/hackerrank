@@ -105,6 +105,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Lists and GCD](https://www.hackerrank.com/challenges/lists-and-gcd)
    * [Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation)
    * [Tree manager](https://www.hackerrank.com/challenges/tree-manager)
+   * [Valid BST](https://www.hackerrank.com/challenges/valid-bst)
 4. [Memoization and DP](https://www.hackerrank.com/domains/fp/dp)
    * [Different Ways](https://www.hackerrank.com/challenges/different-ways-fp)
    * [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp)
