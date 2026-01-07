@@ -83,7 +83,7 @@ type TreeManagerTask(input: TextReader, output: TextWriter) =
             parent
 
     interface ITask with
-        member this.Execute(argv: string[]) =
+        member _.Execute(_: string[]) =
             let opCount =  input.ReadLine() |> int
             let commands = [for _ in 1 .. opCount do yield input.ReadLine() |> parseCommand]
             let root = {Node.value = 0; Node.parent = None; Node.children = new List<Node>()}
@@ -115,7 +115,7 @@ type TreeManagerTests() =
     [<TestCase("Input16.txt", "Output16.txt")>]
     [<TestCase("Input17.txt", "Output17.txt")>]
     [<TestCase("Input18.txt", "Output18.txt")>]
-    member public this.Execute(inputFile: string, expectedOutputFile: string) =
+    member public _.Execute(inputFile: string, expectedOutputFile: string) =
         let input = File.ReadAllText(Path.Combine(RootDirectory, inputFile))
         let expectedOutput = File.ReadAllText(Path.Combine(RootDirectory, expectedOutputFile))
         TaskExecutor.Execute((fun reader writer -> new TreeManagerTask(reader, writer) :> ITask), input, expectedOutput)
