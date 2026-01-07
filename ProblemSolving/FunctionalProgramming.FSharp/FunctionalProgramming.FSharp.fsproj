@@ -17,6 +17,7 @@
     <Compile Include="FunctionalStructures\ListsAndGCD.fs" />
     <Compile Include="FunctionalStructures\MatrixRotation.fs" />
     <Compile Include="FunctionalStructures\TreeManager.fs" />
+    <Compile Include="FunctionalStructures\ValidBST.fs" />
     <Compile Include="InterpreterCompilers\BrainfuckInterpreter.fs" />
     <Compile Include="InterpreterCompilers\WhileLanguageDirectImpl.fs" />
     <Compile Include="Introduction\AreaVolumeCalculation.fs" />
