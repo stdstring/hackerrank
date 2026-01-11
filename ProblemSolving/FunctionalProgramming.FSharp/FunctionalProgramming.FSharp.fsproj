@@ -16,7 +16,6 @@
     <Compile Include="AdHoc\SubsetSum.fs" />
     <Compile Include="FunctionalStructures\ListsAndGCD.fs" />
     <Compile Include="FunctionalStructures\MatrixRotation.fs" />
-    <Compile Include="FunctionalStructures\NumberBinarySearchTree.fs" />
     <Compile Include="FunctionalStructures\TreeManager.fs" />
     <Compile Include="FunctionalStructures\ValidBST.fs" />
     <Compile Include="InterpreterCompilers\BrainfuckInterpreter.fs" />
@@ -30,6 +29,7 @@
     <Compile Include="Introduction\PolygonAreaCalculation.fs" />
     <Compile Include="Introduction\PolygonPerimeterCalculation.fs" />
     <Compile Include="MemoizationDP\DifferentWays.fs" />
+    <Compile Include="MemoizationDP\NumberBinarySearchTree.fs" />
     <Compile Include="MemoizationDP\Fibonacci.fs" />
     <Compile Include="Recursion\ColorsSequence.fs" />
     <Compile Include="Recursion\ComputingGCD.fs" />
