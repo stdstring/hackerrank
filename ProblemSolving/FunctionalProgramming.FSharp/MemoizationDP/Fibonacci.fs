@@ -35,7 +35,7 @@ type FibonacciTask(input: TextReader, output: TextWriter) =
                 storage |> processTestCase (testCaseNumber + 1) testCaseCount (max current number)
 
     interface ITask with
-        member this.Execute(argv: string[]) =
+        member _.Execute(_: string[]) =
             let storage = Array.create MaxNumber 0
             // F0 = 0, F1 = 1, F2 = 1
             storage.[0]<-1

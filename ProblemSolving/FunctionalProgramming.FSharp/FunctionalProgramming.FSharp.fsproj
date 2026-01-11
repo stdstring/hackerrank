@@ -29,6 +29,7 @@
     <Compile Include="Introduction\PolygonAreaCalculation.fs" />
     <Compile Include="Introduction\PolygonPerimeterCalculation.fs" />
     <Compile Include="MemoizationDP\DifferentWays.fs" />
+    <Compile Include="MemoizationDP\NumberBinarySearchTree.fs" />
     <Compile Include="MemoizationDP\Fibonacci.fs" />
     <Compile Include="Recursion\ColorsSequence.fs" />
     <Compile Include="Recursion\ComputingGCD.fs" />

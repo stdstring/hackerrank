@@ -108,6 +108,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
    * [Valid BST](https://www.hackerrank.com/challenges/valid-bst)
 4. [Memoization and DP](https://www.hackerrank.com/domains/fp/dp)
    * [Different Ways](https://www.hackerrank.com/challenges/different-ways-fp)
+   * [Number of Binary Search Tree](https://www.hackerrank.com/challenges/number-of-binary-search-tree)
    * [Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp)
 5. [Persistent Structures](https://www.hackerrank.com/domains/fp/persistent-ds)
 6. [Ad Hoc](https://www.hackerrank.com/domains/fp/misc):
