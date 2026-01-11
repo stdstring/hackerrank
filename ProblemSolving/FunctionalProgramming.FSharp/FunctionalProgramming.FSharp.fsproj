@@ -16,6 +16,7 @@
     <Compile Include="AdHoc\SubsetSum.fs" />
     <Compile Include="FunctionalStructures\ListsAndGCD.fs" />
     <Compile Include="FunctionalStructures\MatrixRotation.fs" />
+    <Compile Include="FunctionalStructures\NumberBinarySearchTree.fs" />
     <Compile Include="FunctionalStructures\TreeManager.fs" />
     <Compile Include="FunctionalStructures\ValidBST.fs" />
     <Compile Include="InterpreterCompilers\BrainfuckInterpreter.fs" />
