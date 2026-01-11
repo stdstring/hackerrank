@@ -9,12 +9,12 @@ namespace ProblemSolving.Common
     {
         public static void Execute(Func<TextReader, TextWriter, ITask> taskFactory, String input, String expectedOutput)
         {
-            Execute(taskFactory, input, expectedOutput.Split("\r\n"));
+            Execute(taskFactory, input, expectedOutput.Split(new[] {"\r\n", "\n"}, StringSplitOptions.None));
         }
 
         public static void Execute(Func<TextReader, TextWriter, ITask> taskFactory, String[] input, String[] expectedOutput)
         {
-            Execute(taskFactory, String.Join("\r\n", input), expectedOutput);
+            Execute(taskFactory, String.Join("\n", input), expectedOutput);
         }
 
         public static void Execute(Func<TextReader, TextWriter, ITask> taskFactory, String input, String[] expectedOutput)
@@ -25,7 +25,7 @@ namespace ProblemSolving.Common
 
         public static void Execute<TValue>(Func<TextReader, TextWriter, ITask> taskFactory, String[] input, TValue[] expectedOutput, Action<TValue, String> valueChecker)
         {
-            Execute(taskFactory, String.Join("\r\n", input), expectedOutput, valueChecker);
+            Execute(taskFactory, String.Join("\n", input), expectedOutput, valueChecker);
         }
 
         public static void Execute<TValue>(Func<TextReader, TextWriter, ITask> taskFactory, String input, TValue[] expectedOutput, Action<TValue, String> valueChecker)
