@@ -104,6 +104,7 @@ My solutions for tasks from [hackerrank](https://www.hackerrank.com/):
 3. [Functional Structures](https://www.hackerrank.com/domains/fp/ds):
    * [Lists and GCD](https://www.hackerrank.com/challenges/lists-and-gcd)
    * [Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation)
+   * [Swap Nodes](https://www.hackerrank.com/challenges/swap-nodes/)
    * [Tree manager](https://www.hackerrank.com/challenges/tree-manager)
    * [Valid BST](https://www.hackerrank.com/challenges/valid-bst)
 4. [Memoization and DP](https://www.hackerrank.com/domains/fp/dp)
